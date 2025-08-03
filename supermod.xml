@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<mod
+    name="More subtitles"
+	author="Punished Bernadetta"
+	color="191 0 73"
+    version="1.0"
+	description=""
+>
+    <hooks>
+		<post
+            hook_id="lib/managers/dialogmanager"
+            script_path="dialogmanager.lua"
+        />
+    </hooks>
+	<localization directory="loc" default="english.json">
+		<loc file="english.json" language="english"/>
+	</localization>
+</mod>

@@ -1,0 +1,14 @@
+{
+    "Lua.diagnostics.globals": [
+        "managers",
+        "ChatManager",
+        "CriminalsManager",
+        "alive",
+        "InteractionTweakData",
+        "Hooks",
+        "World",
+        "Vector3",
+        "CopDamage"
+    ],
+    "deno.enable": true
+}

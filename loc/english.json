@@ -1,0 +1,248 @@
+{
+    "bank_spawn_land1_brit": "Blasted fly boys failed to breach the Treasury. How the damn are we supposed to get in now?",
+    "bank_spawn_land1_germ": "Our air support has disappointed, the Treasury is more intact than we were promised. How do we get in now?",
+    "bank_spawn_land1_amer": "The damn plane's missed! Treasury is locked tight, we ain't got a way in, what do we do!?",
+    "bank_spawn_land1_russ": "Sabre Squadron... Bah, they cannot aim. Building still hold. How to get in?",
+
+    "bank_shells_first1_1_brit": "Here we are, AA shells. Meaning that we must be close to a ruddy big gun.",
+    "bank_shells_first1_1_amer": "I got some AA shells here. Don't need three guesses what needs these.",
+    "bank_shells_first1_1_russ": "Uh, big ammo will only fit the big gun. Da, I'm sure",
+    "bank_shells_first1_1_germ": "Aha, these look like AA shells, which means what we seek must be close.",
+
+    "bank_shells_picked1_brit": "Right... Uh... Bloody heavy.",
+    "bank_shells_picked1_amer": "Jesus, I'm gonna get a hernia carrying this shit.",
+    "bank_shells_picked1_russ": "Uh, shell heavier than expected.",
+    "bank_shells_picked1_germ": "Let's hope... The weight of this shell... Corresponds to its destructive potential.",
+
+    "bank_flak88_attached_amer": "Ugh, gonna get jeep driver's ass sitting on this thing.",
+    "bank_flak88_attached_brit": "Ugh, not built for comfort these things.",
+    "bank_flak88_attached_germ": "Agh! They built these for jockeys?!",
+    "bank_flak88_attached_russ": "Is this gun built for tiny people?",
+
+    "bank_flak88_reload2_germ": "Most impressive! A direct hit and still our obstacle stands. However, I doubt it will withstand another.",
+    "bank_flak88_reload2_amer": "God damn, tough son of a bitch, ain't it? Another direct hit outta do it.",
+    "bank_flak88_reload2_russ": "Oh, I did not expect it to stand. We must shoot again.",
+    "bank_flak88_reload2_brit": "Crikey! Jerry knows how to build them. I say, another good shot and we are in, lads.",
+
+    "bank_bank_entrance_free3_russ": "Da, I will take gold now.",
+    "bank_bank_entrance_free3_germ": "It's almost as if the gold called out for us! Begging for us!",
+    "bank_bank_entrance_free3_brit": "After you. Oh no, I insist",
+    "bank_bank_entrance_free3_amer": "Ah, you know, I swear I can actually smell that gold. Let's go!",
+
+    "bank_locate_vault2_amer": "Huge metal doors? Can't be that hard to find.",
+    "bank_locate_vault2_germ": "You are worried the colossal metal doors may evade us?",
+    "bank_locate_vault2_russ": "Vault doors are like Russian: big, strong... Hard to miss.",
+    "bank_locate_vault2_brit": "There, because giant metal doors may be tricky to spot, eh?",
+
+    "bank_approaching_vault1_amer": "Christ, look at that vault door.",
+    "bank_approaching_vault1_brit": "Crikey! That a vault door... What a whopper...",
+    "bank_approaching_vault1_germ": "Mein gott, that vault door is huge!",
+    "bank_approaching_vault1_russ": "The vault door... Is huge.",
+
+    "bank_approaching_vault2_germ": "I'm doubtful even bombs would break that open.",
+    "bank_approaching_vault2_brit": "Even if the Sabre gets to bank, I doubt they could scratch that.",
+    "bank_approaching_vault2_russ": "Bombs would not make dent, Kurgan think.",
+    "bank_approaching_vault2_amer": "I doubt even Sabre Squadron's bombs could crack that.",
+
+    "bank_approaching_vault3_amer": "So, how we thinkin' we get into it?",
+    "bank_approaching_vault3_brit": "So, how do we get into it?",
+    "bank_approaching_vault3_germ": "So, how are we supposed to get in?",
+    "bank_approaching_vault3_russ": "So, how we get in?",
+
+    "bank_breach_vault_idea1_russ": "Door not option. So we go through ceiling.",
+    "bank_breach_vault_idea1_germ": "That door is impregnable. No matter. We go through the ceiling.",
+    "bank_breach_vault_idea1_amer": "Hey, fuck the door. I'm thinking the ceiling on the vault isn't so strong, c'mon.",
+    "bank_breach_vault_idea1_brit": "I bet the door is strong, but it's just a door... The ceiling won't be so fortified.",
+
+    "bank_breach_vault_idea4_brit": "It's a good job Sabre Squadron couldn't have gotten too far.",
+    "bank_breach_vault_idea4_russ": "Ah, and Squadron of Sabres are close to us?",
+    "bank_breach_vault_idea4_amer": "Fuckin' ey, and they are still in the area.",
+    "bank_breach_vault_idea4_germ": "I'm just glad that the Sabre Squadron must still be close.",
+
+    "bank_breach_vault_idea5_germ": "Every treasury of this size has a radio, undoubtedly. We find that, we can request another dose of bombing from the Squadron.",
+    "bank_breach_vault_idea5_amer": "This treasury has got to have a radio, right? So we contact the Sabres and tell them where to bomb.",
+    "bank_breach_vault_idea5_russ": "Treasury will have a radio. Radio will speak to Squadron of Sabres. We say where they drop bomb.",
+    "bank_breach_vault_idea5_brit": "There will most certainly be a radio in this treasury. Once we find that, we just need to ask the fly boys to drop a few more bombs.",
+
+    "bank_breach_vault_idea6_brit": "Although we will have to figure out how can they bomb the vault door.",
+    "bank_breach_vault_idea6_russ": "But breaching vault door is not easy for pilot.",
+    "bank_breach_vault_idea6_amer": "One small problem, how are they gonna bomb the vault doors?",
+    "bank_breach_vault_idea6_germ": "However, for them to part the vault doors, it might be somewhat tricky.",
+
+    "bank_destroy_skylight_rem_amer": "Hey, remember: get rid of the skylight!",
+    "bank_destroy_skylight_rem_germ": "May I remind you to shoot out the skylight?",
+    "bank_destroy_skylight_rem_russ": "Don't forget: shoot skylight!",
+    "bank_destroy_skylight_rem_brit": "Don't forget to shoot out the skylight!",
+
+    "bank_part_skylight_destroyed_brit": "Crystal glass... A bit of a shame. Oh well.",
+    "bank_part_skylight_destroyed_russ": "Ahahahaha! Oh smashing is fun!",
+    "bank_part_skylight_destroyed_amer": "It shatters so easily!",
+    "bank_part_skylight_destroyed_germ": "Oh my, is that crystal? Bah, no matter.",
+
+    "bank_part_skylight_destroyed2_amer": "So, we got a hole, but now we gotta give them a target. Don't want them missing their mark again.",
+    "bank_part_skylight_destroyed2_germ": "The Sabres have their opening, but we must do something to mark their target. Let's face it, we don't want them to miss again, now do we?",
+    "bank_part_skylight_destroyed2_brit": "That's one problem solved, but they're not gonna be able to see their target from up there, and we can't have them missing again.",
+    "bank_part_skylight_destroyed2_russ": "Hole is good. Pilot needs to see target. We help hit target.",
+
+    "bank_flag_burnt_amer": "These flags burn real nice.",
+    "bank_flag_burnt_russ": "Fascist flags make good fires, da?",
+    "bank_flag_burnt_brit": "That's it. Burn nicely, you bastard.",
+    "bank_flag_burnt_germ": "Ah, it is true: these look better ablaze!",
+
+    "bank_flag_burnt_var2_brit": "Up in smoke with ya!",
+    "bank_flag_burnt_var2_russ": "Flag burn fast!",
+    "bank_flag_burnt_var2_amer": "Must be cheap kraut fabric. They are burning fast!",
+    "bank_flag_burnt_var2_germ": "Ah, haha! Look at it burn!",
+
+    "bank_radio_found1_brit": "Aha, I found a radio.",
+    "bank_radio_found1_amer": "Got a radio here.",
+    "bank_radio_found1_russ": "I find radio!",
+    "bank_radio_found1_germ": "Here we are - one radio!",
+
+    "bank_use_radio1_amer": "They are smoking real nice. The Sabres 'ought to be able to see that.",
+    "bank_use_radio1_russ": "Da, lots of smoke. Planes will see smoke, for sure!",
+    "bank_use_radio1_germ": "That should make an easy target for the Sabre Squadron... Hopefully.",
+    "bank_use_radio1_brit": "That's quite a bit of smoke. Should be visible to Sabre Squadron.",
+
+    "bank_use_radio2_brit": "Indeed. Now just let them now what to aim for.",
+    "bank_use_radio2_amer": "Yeah, right? Now, give the Sabres a call, tell them where to drop.",
+    "bank_use_radio2_germ": "Most certainly. Now we must make contact with Sabre Squadron.",
+    "bank_use_radio2_russ": "Da. Now call planes. Tell them to bomb smoke.",
+
+    "bank_radio_found2_russ": "Then use radio to speak to plane, and have plane send bomb to vault.",
+    "bank_radio_found2_amer": "Then call Sabre Squadron, and tell them not to miss this time.",
+    "bank_radio_found2_brit": "Then let's tell the Squadron what we need, so we can crack this vault, and, perhaps, to hit their target this time.",
+    "bank_radio_found2_germ": "Do we have any airborne friends with a better track record? No! Then we should call the Sabre Squadron, remind them that they owe us.",
+    
+    "bank_wait_for_plane2_russ": "Good, say when?",
+    "bank_wait_for_plane2_brit": "Did they say how long?",
+    "bank_wait_for_plane2_germ": "Sehr gut. Did they say when?",
+    "bank_wait_for_plane2_amer": "They say how long they be?",
+
+    "bank_wait_for_plane3_amer": "No, they didn't. I'm guessing that bombing a bank through a skylight is not in the user manual.",
+    "bank_wait_for_plane3_brit": "Afraid not. I suppose, bombing a bank through a smoking skylight is complicated.",
+    "bank_wait_for_plane3_russ": "Net, Kurgan think, perhaps bombing bank through roof not something Sabre practiced.",
+    "bank_wait_for_plane3_germ": "Alas, no. I would speculate this is a new mission for them.",
+    
+    "bank_wait_for_plane4_amer": "Yeah, I get it, no problem. We'll just... Kill nazis 'till they do it.",
+    "bank_wait_for_plane4_russ": "Good, then use time to kill fascists.",
+    "bank_wait_for_plane4_germ": "Huh, very well. Let us the time productively and kill nazis.",
+    "bank_wait_for_plane4_brit": "Alright. Shall we kill some nazis while we wait to have a whole lotta fun?",
+    
+    "bank_plane_arriving_russ": "Plane is coming, you hear?",
+    "bank_plane_arriving_brit": "Listen!.. Hear that? I think Sabre Squadron is almost here.",
+    "bank_plane_arriving_amer": "I think I hear a plane. Hope it's the damn Sabres.",
+    "bank_plane_arriving_germ": "I believe I can hear and incoming plane, gentlemen.",
+
+    "bank_plane_near_sky1_russ": "Death from above! Take shelter, comrades!",
+    "bank_plane_near_sky1_germ": "Hm? A bomb will soon take from the sky. Take cover!",
+    "bank_plane_near_sky1_amer": "Find some cover away from the skylight. Unless you want a bomb in your face.",
+    "bank_plane_near_sky1_brit": "Oh, cripes. Find some cover, and keep away from the skylight.",
+
+    "bank_close_to_explo_hole1_germ": "We have created a piece modern art with such mess! You expect gold to be safe, of course?",
+    "bank_close_to_explo_hole1_amer": "I can blow shit up all day. So, uh, the gold is gonna be okay, right?",
+    "bank_close_to_explo_hole1_brit": "Whoopsie-daisy. A little more mess than I anticipated. You think the gold will be alright?",
+    "bank_close_to_explo_hole1_russ": "Maybe bomb did too good. Gold will be good, da?",
+
+    "bank_close_to_explo_hole2_amer": "Eh, I wouldn't worry. Gold is pretty sturdy... It is pretty sturdy, isn't it?",
+    "bank_close_to_explo_hole2_russ": "Gold is strong, like Russian. Gold will be fine.",
+    "bank_close_to_explo_hole2_germ": "The gold will be fine, I'm sure. And if not, smaller pieces are easier to carry.",
+    "bank_close_to_explo_hole2_brit": "Unless the gold is fake, then I say we have nothing to worry about.",
+
+    "bank_vault_extra_loot1_russ": "Vault put a good fight. Now it offers cages to fight, too.",
+    "bank_vault_extra_loot1_brit": "That's the vault well and truly breached, and... Oh, blasted, now we have some dashed cages to deal with.",
+    "bank_vault_extra_loot1_germ": "You fought well, dear vault. And it seems you have more fight. Now we must overcome these cages.",
+    "bank_vault_extra_loot1_amer": "Right in the belly of the beast. Hold on... They have cages in here!",
+
+    "bank_find_car_rem_amer": "Guys, you found our ride yet or what?",
+    "bank_find_car_rem_russ": "We are not yet in vehicle. We should be in vehicle.",
+    "bank_find_car_rem_brit": "This gold deserves a comfortable ride, chaps. Any joy finding a vehicle?",
+    "bank_find_car_rem_germ": "Gentlemen, we must find something to drive this gold.",
+
+    "bank_smash_fence_brit": "Listen to this startup - beautiful. We should be able to get through the gate with this.",
+    "bank_smash_fence_russ": "Impressive, fascists know how to keep engines clean. We go now!",
+    "bank_smash_fence_amer": "Burn like a fucking lion, boys. We 'outta be able to bust out of here with this.",
+    "bank_smash_fence_germ": "Most excellent German engineering! Ready to smash through the gate that blocks our path.",
+
+    "bank_near_gate_russ": "Oh-uh.",
+    "bank_near_gate_brit": "Brace for impact.",
+    "bank_near_gate_amer": "Hold on to something!",
+    "bank_near_gate_germ": "This is going to leave a mark!",
+
+    "bank_fence_smashed1_brit": "We are through!",
+    "bank_fence_smashed1_russ": "Fence is crushed, like we crush fascists!",
+    "bank_fence_smashed1_germ": "Kaboosh, ha! No fence can stop us!",
+    "bank_fence_smashed1_amer": "Hehe, fuck you, fence!",
+
+    "bank_car_explosion_var2_germ": "Careful! I would not like to see if this vehicle can take a direct hit!",
+    "bank_car_explosion_var2_russ": "Car is not Russian - it's not strong! Take care of car!",
+    "bank_car_explosion_var2_amer": "Watch it, we have a precious cargo - and I don't mean me!",
+    "bank_car_explosion_var2_brit": "Christ on a bike! Let's not get our car killed.",
+
+    "bank_get_to_the_gate_rem_russ": "By the way, we must go to resistance plane right now.",
+    "bank_get_to_the_gate_rem_amer": "Hurry it up, we gotta get to the resistance plane.",
+    "bank_get_to_the_gate_rem_germ": "The resistance plane awaits us. Go quickly.",
+    "bank_get_to_the_gate_rem_brit": "Quickly, lads. We got to reach the resistance plane.",
+
+    "bank_driving_around_var1_amer": "Where the fuck are the resistance!?",
+    "bank_driving_around_var1_russ": "Resistance? Come out, come out, whereever you are.",
+    "bank_driving_around_var1_germ": "The resistance should not be hiding from us.",
+    "bank_driving_around_var1_brit": "Where the bally hell is the resistance?",
+
+    "bank_secure_loot1_amer": "I'll be damned, there's the resistance!",
+    "bank_secure_loot1_brit": "Well, stone me, there's the resistance.",
+    "bank_secure_loot1_russ": "There resistance! Kurgan surprised.",
+    "bank_secure_loot1_germ": "I believe that is what we are looking for.",
+
+    "bank_carry_bags_var1_1_germ": "We must be as close as we can be to the plane. There's much gold to transfer.",
+    "bank_carry_bags_var1_1_brit": "Take us nice and close... Rather a lot to load, after all.",
+    "bank_carry_bags_var1_1_amer": "Get us as close to the plane as possible. We got a lot of gold here.",
+    "bank_carry_bags_var1_1_russ": "We drive close to plane. Quicker to load the gold!",
+
+    "bank_carry_bags_var1_2_russ": "Kurgan has a bad feeling about this. Very good location... If I were sniper.",
+    "bank_carry_bags_var1_2_germ": "Be on guard: if I were a sniper, this would be a good place to target.",
+    "bank_carry_bags_var1_2_amer": "Just keep your eyes peeled: soon as we are in the open, we are sitting ducks for any snipers.",
+    "bank_carry_bags_var1_2_brit": "Stay sharp, lads: this looks like a prime locations for the damnable snipers, if you ask me.",
+
+    "bank_resist_pilot_welcome_var1": "What took you people so long?",
+    "bank_resist_pilot_welcome_var2": "Oh, you took your damn time.",
+    "bank_resist_pilot_welcome_var3": "Oh, thank you so much for finally showing up.",
+    "bank_resist_pilot_welcome_var4": "I was starting to think you weren't going to show up.",
+    "bank_resist_pilot_welcome_var5": "Did you get distracted? I have been waiting for ages.",
+
+    "bank_resist_pilot_drop_gold_var1": "Did you get all the gold? Put it on the plane and we'll get out of here.",
+    "bank_resist_pilot_drop_gold_var2": "Is that all of the gold? Okay, throw it in the plane, time to escape.",
+    "bank_resist_pilot_drop_gold_var3": "You got all the gold, yes? That's great. Get on the plane, and we can be away.",
+    "bank_resist_pilot_drop_gold_var4": "Do you have all of the gold? Throw everything you have into the plane and we leave.",
+    "bank_resist_pilot_drop_gold_var5": "You took all the gold? Very good. Put it in the plane and we shall be on our way.",
+
+    "bank_loot_drop_var1_brit": "Get on there!",
+    "bank_loot_drop_var1_russ": "We have gold in plane!",
+    "bank_loot_drop_var1_amer": "Get in there!",
+    "bank_loot_drop_var1_germ": "The gold is on the plane!",
+
+    "bank_loot_drop_var2_brit": "Hope it can still take off.",
+    "bank_loot_drop_var2_russ": "Good amount of gold. Mrs White will be pleased. But more gold can be ours, I think.",
+    "bank_loot_drop_var2_amer": "Hope it's not make it too heavy, or else Wolfgang is gotta walk... Haha... Kidding.",
+    "bank_loot_drop_var2_germ": "I pray the plane can still fly with so much gold.",
+
+    "bank_carry_bags_rem_brit": "Let's the gold onto the plane, lads.",
+    "bank_carry_bags_rem_amer": "Get the gold to the plane! Go, go, go!",
+    "bank_carry_bags_rem_germ": "The gold must be on the plane, gentlemen!",
+    "bank_carry_bags_rem_russ": "Gold is no good in vehicle. Get it on plane!",
+
+    "bank_start_plane1_russ": "Good haul, da? For Mrs White - enough, maybe.",
+    "bank_start_plane1_amer": "I think that's enough swag for Mrs White, but there might be more we can scoop up.",
+    "bank_start_plane1_brit": "I think that's a nice amount. Enough for Mrs White.",
+    "bank_start_plane1_germ": "I expect Frau White will find this a sufficient amount of gold.",
+
+    "bank_more_gold1_amer": "Call me an opportunist, but back there's plenty more gold back in that vault. Just saying.",
+    "bank_more_gold1_brit": "Now, while I hate to sound greedy, we are leaving a frightful amount of gold back in that vault. And we did go through the effort of opening every possible door.",
+    "bank_more_gold1_germ": "You know there was a huge amount of gold still sitting in the vault? With a clear path? It would almost be a shame to leave it behind.",
+    "bank_more_gold1_russ": "We have some gold now, but vault has more gold we can take, da? And path to gold is open.",
+
+    "bank_plane_started_amer": "We're all clear, get out of here!",
+    "bank_plane_started_germ": "Take off, go!",
+    "bank_plane_started_russ": "Clear for take off. Go!",
+    "bank_plane_started_brit": "You're clear? Go, go!"
+}
