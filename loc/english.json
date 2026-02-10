@@ -244,5 +244,397 @@
     "bank_plane_started_amer": "We're all clear, get out of here!",
     "bank_plane_started_germ": "Take off, go!",
     "bank_plane_started_russ": "Clear for take off. Go!",
-    "bank_plane_started_brit": "You're clear? Go, go!"
+    "bank_plane_started_brit": "You're clear? Go, go!",
+
+    "castle_spawn_amer": "Ha-ha-ha, this is the shit!",
+    "castle_spawn_brit": "Next time, Sterling, bring a pillow.",
+    "castle_spawn_germ": "Ha! I could get used to traveling this way!",
+    "castle_spawn_russ": "We should always travel in this style!",
+
+    "castle_find_eq1_germ": "Did anyone see where our equipment has landed?",
+    "castle_find_eq1_russ": "Now, where's pod containing equipment? It is close to here, I think.",
+    "castle_find_eq1_amer": "So, where's our gear? The airdrop's gotta be close, right?",
+    "castle_find_eq1_brit": "Now, did anyone see where our equipment landed?",
+
+    "castle_find_eq_rem_brit": "Where the devil is that equipment canister?",
+    "castle_find_eq_rem_russ": "Where's pod smoke? POD! SMOKE!",
+    "castle_find_eq_rem_amer": "Where the hell is the damned pod!?",
+    "castle_find_eq_rem_germ": "Our equipment cannot be far! Look for smoke!",
+    
+    "castle_find_eq_rem2_germ": "There was a flare on the canister, yes? Then we are looking for a plume of smoke, surely!",
+    "castle_find_eq_rem2_brit": "There was a flare on the equipment pod. Look out for the smoke and we can find it.",
+    "castle_find_eq_rem2_amer": "The canister we are looking for should be giving off a damned smoke signal. Find the smoke - find the pod.",
+    "castle_find_eq_rem2_russ": "Uh, where's pod? We are looking for smoke. Then we should find smoke and pod.",
+
+    "castle_russian_killed_var1_amer": "Everything will be better now.",
+    "castle_russian_killed_var1_brit": "I'm sorry to have to do this to you, old chap.",
+    "castle_russian_killed_var1_germ": "Mein freud, you have my most sincere apology.",
+    "castle_russian_killed_var1_russ": "For Mother Russia!",
+
+    "castle_russian_killed_var2_russ": "Good night, comrade!",
+    "castle_russian_killed_var2_germ": "Were there another way... Farewell.",
+    "castle_russian_killed_var2_brit": "You have served your country, my friend.",
+    "castle_russian_killed_var2_amer": "Just think of somewhere real nice.",
+
+    "castle_russian_killed_var3_brit": "I wish there was another way. God speed, old boy.",
+    "castle_russian_killed_var3_germ": "You have given everything to keep your people safe.",
+    "castle_russian_killed_var3_russ": "You... can rest now.",
+    "castle_russian_killed_var3_amer": "No one's gonna hurt you anymore.",
+
+    "castle_russian_killed_var4_germ": "Rest, mein freud. Your fight is over.",
+    "castle_russian_killed_var4_amer": "I'll see you on the other side.",
+    "castle_russian_killed_var4_russ": "Thank you for sacrifice.",
+    "castle_russian_killed_var4_brit": "I hope to see you in the next life.",
+
+    "castle_grabbed_intel_var1_russ": "Red lines across Mother Russia. Is good!",
+    "castle_grabbed_intel_var1_amer": "What are these guys up to? Armor hitting Stalingrad, huh.",
+    "castle_grabbed_intel_var1_germ": "A sound plan but the execution must be thoughtless.",
+    "castle_grabbed_intel_var1_brit": "Let's see... Advancing on Kursk, eh?",
+
+    "castle_grabbed_intel_var2_brit": "Aha! Let's see what the reds are planning. Interesting...",
+    "castle_grabbed_intel_var2_amer": "Let's see... A rush for Kiev? Man, that's fucking crazy.",
+    "castle_grabbed_intel_var2_russ": "My home, my family! Names on a map!",
+    "castle_grabbed_intel_var2_germ": "I fear this will see many sons of the reich left behind in Russia.",
+
+    "castle_grabbed_intel_var3_germ": "Ahahaha! Der Dummkopf! This will be a disaster!",
+    "castle_grabbed_intel_var3_brit": "According to this, the Soviets have a strong line across the Ukraine.",
+    "castle_grabbed_intel_var3_amer": "They are moving with their troops to the east, huh? Shit.",
+    "castle_grabbed_intel_var3_russ": "This one? They do not know the land, hahaha!",
+
+    "castle_grabbed_intel_var4_germ": "It might work... With air support.",
+    "castle_grabbed_intel_var4_russ": "The march west will never end!",
+    "castle_grabbed_intel_var4_brit": "What does it say? NKVD to Rostov, eh?",
+    "castle_grabbed_intel_var4_amer": "What do we got here... Ah, supply lines are stretched here, see?",
+
+    "castle_advance2_germ": "This castle didn't anticipate it will face us, meine freunde.",
+    "castle_advance2_amer": "Let's see how these krauts plan to keep us out of this Schloss Shitburg.",
+    "castle_advance2_brit": "Let's see how they keep rabell out of Schloss Blomberg.",
+    "castle_advance2_russ": "We shall see if castle defenses can keep us out, eh?",
+
+    "castle_blast_gate1_russ": "Hm, gate is smaller than I expected. Still, quite big.",
+    "castle_blast_gate1_amer": "Hey, look, a big \"Hey, fuck off\"-gate. Guess we should've expected that.",
+    "castle_blast_gate1_germ": "My, what big gates they have!",
+    "castle_blast_gate1_brit": "I see, a solid big gate. Why am I not surprised?",
+
+    "castle_blast_gate_basement3_russ": "That works for me.",
+    "castle_blast_gate_basement3_germ": "I thought you'd never ask!",
+    "castle_blast_gate_basement3_amer": "You read my mind!",
+    "castle_blast_gate_basement3_brit": "I'd say so.",
+
+    "castle_blast_gate_rem_amer": "Hey, we need to blast the gate. Get the charges on there!",
+    "castle_blast_gate_rem_germ": "If we are to use explosives to open the gate, then we must actually... use the explosives, yes?",
+    "castle_blast_gate_rem_russ": "The gate will not explode unless we place explosives!",
+    "castle_blast_gate_rem_brit": "Get the explosives on the gate, chop-chop!",
+    
+    "castle_blast_gate_basement_rem_amer": "We need to blast through to the cellar, so place the explosives.",
+    "castle_blast_gate_basement_rem_russ": "If we are to go to cellar, we must place the explosives on gate.",
+    "castle_blast_gate_basement_rem_brit": "We need to open up the cellar. Plant those explosives.",
+    "castle_blast_gate_basement_rem_germ": "With this dynamite, I feel we are... Improving the decor here. Say goodbye to the gate!",
+
+    "castle_move_to_court1_russ": "In courtyard! We will see where we go next.",
+    "castle_move_to_court1_germ": "It would seem the courtyard is the central area. We could plan our next move there.",
+    "castle_move_to_court1_brit": "We'll get a good way of the land from the courtyard.",
+    "castle_move_to_court1_amer": "Courtyard will let us see where to go next.",
+
+    "castle_move_to_court_rem_brit": "We still need to push up to the courtyard. Go, go!",
+    "castle_move_to_court_rem_germ": "The courtyard is our next destination, we should go now!",
+    "castle_move_to_court_rem_russ": "We are waiting. We go to courtyard now.",
+    "castle_move_to_court_rem_amer": "Then get to the courtyard, gang. C'mon!",
+
+    "castle_clear_court1_germ": "Scheisse! There's surely a collective term for a group of nazis like this?",
+    "castle_clear_court1_russ": "Bozhe moi! Is there a word for... the large group of nazis?",
+    "castle_clear_court1_brit": "Bloody hell! What's the collective noun for nazis?",
+    "castle_clear_court1_amer": "Christ! 'ey, what do you call a group of nazis?",
+
+    "castle_clear_court2_amer": "\"An asshole\", now kill them!",
+    "castle_clear_court2_germ": "It does not translate well. Attack!",
+    "castle_clear_court2_russ": "\"Cannon fodder\". We fight.",
+    "castle_clear_court2_brit": "\"An imperial\"? \"A fuckton\"? Eh, let's just kill them.",
+
+    "castle_storm_castle_continue3_brit": "I wish we could rescue them, but our orders were clear and we can't allow the nazi scum any further classified intel. Be merciful, that is all.",
+    "castle_storm_castle_continue3_germ": "There's no other way! ",
+    "castle_storm_castle_continue3_russ": "Another time, it may go different. You will give Russian Generals an honorable death, understand?",
+    "castle_storm_castle_continue3_amer": "If it stops the nazis from getting more intel and puts out of their misery, just... *sigh* Just make it quick.",
+
+    "castle_storm_castle_rem_russ": "We keep looking. There's no place to hide from me!",
+    "castle_storm_castle_rem_brit": "Keep looking, search all the rooms!",
+    "castle_storm_castle_rem_amer": "Make sure to search every room, gotta be here somewhere.",
+    "castle_storm_castle_rem_germ": "We will search until we find them. There's no alternative.",
+
+    "castle_storm_castle_complete1_amer": "Time for a sit rep: we've got every last trace of intel and the Russian Generals are out of the picture.",
+    "castle_storm_castle_complete1_russ": "We are done, I think. We have all the intel and the Russian Generals are rescued.",
+    "castle_storm_castle_complete1_brit": "So, mission update: the intel has been taken care of... along with those Russian Generals.",
+    "castle_storm_castle_complete1_germ": "That concludes our business here, yes? The intel is in our possession, and the Russian Generals are no longer a concern.",
+
+    "castle_storm_castle_complete1_1_brit": "Both fellas deserved better than this. Let's hope it saved more lives than we had to take.",
+    "castle_storm_castle_complete1_1_germ": "These actions will stay with me always. Such is war, gentlemen.",
+    "castle_storm_castle_complete1_1_russ": "I do not wish to talk about it. Just know that they understood.",
+    "castle_storm_castle_complete1_1_amer": "I don't like it, not gonna lie, but I hope the end justifies the means.",
+
+    "castle_storm_castle_complete2_germ": "I believe that is everything!",
+    "castle_storm_castle_complete2_amer": "Yeah, that sounds right.",
+    "castle_storm_castle_complete2_russ": "I have nothing further to add.",
+    "castle_storm_castle_complete2_brit": "Yes, I think that covers it nicely.",
+
+    "castle_get_to_tower2_russ": "Is very BIG radio mast! You know what they say about fascist with big mast?.. We go now.",
+    "castle_get_to_tower2_brit": "It could reach Timbuk-bloody-tu. Race you there.",
+    "castle_get_to_tower2_amer": "Looks big enough to reach Veronica Lake, let's go.",
+    "castle_get_to_tower2_germ": "Indeed! A mast of that size should fit the bill nicely! Let us proceed!",
+
+    "castle_get_to_tower_rem_russ": "I wish to leave this place, so we go to radio mask at once.",
+    "castle_get_to_tower_rem_amer": "C'mon, we gotta head for the radio mast, give Mrs White a call.",
+    "castle_get_to_tower_rem_brit": "Let's head to the mast and let Mrs White know we are ready to leave.",
+    "castle_get_to_tower_rem_germ": "Come now, let us not keep Frau White waiting! To the radio mast!",
+
+    "castle_radio_report5_russ": "\"Safe\" is last thing on my mind.",
+    "castle_radio_report5_amer": "\"Stay safe\" she says, it's not like we are in a castle crawling with nazis. Jesus.",
+    "castle_radio_report5_brit": "\"Stay safe\"?! Ah, bloody marvelous woman!",
+    "castle_radio_report5_germ": "Hm! Worry not for us, but any fools who cross our path!",
+
+    "castle_wait_extraction_plan2_russ": "Mrs. White keeps us waiting.",
+    "castle_wait_extraction_plan2_germ": "It is unlike Frau White to take so long.",
+    "castle_wait_extraction_plan2_amer": "Where the hell is Mrs White!?",
+    "castle_wait_extraction_plan2_brit": "Where the devil is she?",
+
+    "castle_wait_extraction_plan3_germ": "Frau White has never let us down. She will respond.",
+    "castle_wait_extraction_plan3_brit": "Patience. Mrs White will get back to us any second.",
+    "castle_wait_extraction_plan3_amer": "She'll get back to us! ...C'mon doll, where are you!?",
+    "castle_wait_extraction_plan3_russ": "No matter, it is not like we have nothing to do.",
+
+    "castle_wait_extraction_plan_rem_germ": "Hm, Frau White tests my patience... I almost enjoy it!",
+    "castle_wait_extraction_plan_rem_russ": "Mrs White making cup of tea?! I grow tired of waiting!",
+    "castle_wait_extraction_plan_rem_brit": "C'mon Mrs White.",
+    "castle_wait_extraction_plan_rem_amer": "Damn it, Mrs White where are you!?",
+
+    "castle_found_general1_russ": "A general, he here!",
+    "castle_found_general1_amer": "Got one of the generals.",
+    "castle_found_general1_brit": "Found one of the generals.",
+    "castle_found_general1_germ": "Found a general!",
+
+    "castle_truck_driver_sorry_var1": "I'm later than expected, I know, I'm sorry! We have to get out here, quickly!",
+    "castle_truck_driver_sorry_var2": "I'm sorry to keep you waiting! Come, we have to get out of here, now!",
+    "castle_truck_driver_sorry_var3": "I know, I'm late! I got delayed trying to stay unseen. We have to go, now!",
+    "castle_truck_driver_sorry_var4": "Apologies for the late arrival, it's madness out there! Now get in!",
+    "castle_truck_driver_sorry_var5": "Get in! Schnell. I couldn't help being delayed, but I can make sure we get out of here!",
+
+    "castle_truck_driver_get_in_var1": "Schnell, everyone into the car! We can get out of this hell!",
+    "castle_truck_driver_get_in_var2": "I don't want to leave without you, get into the damn car, now!",
+    "castle_truck_driver_get_in_var3": "Hey, get in the car, right now! We go!",
+    "castle_truck_driver_get_in_var4": "Into the car, now! We must escape while we can!",
+    "castle_truck_driver_get_in_var5": "I don't know how long this engine will last, so hurry up and get in!",
+
+    "castle_opn_hear_party_brit": "Party is in full swing by the sound of it.",
+    "castle_opn_hear_party_amer": "They sound like they are having fun to you?",
+    "castle_opn_hear_party_russ": "Nazi party is partying!",
+    "castle_opn_hear_party_germ": "If I remember correctly, such parties were practically null!",
+
+    "castle_opn_barrel_shot_var1_germ": "Another barrel!",
+    "castle_opn_barrel_shot_var1_brit": "Another one!",
+    "castle_opn_barrel_shot_var1_amer": "Like shooting fuel in a barrel.",
+    "castle_opn_barrel_shot_var1_russ": "Is good.",
+
+    "castle_opn_barrel_shot_var2_russ": "Boom!",
+    "castle_opn_barrel_shot_var2_germ": "Kaaaaboom!",
+    "castle_opn_barrel_shot_var2_amer": "Another!",
+    "castle_opn_barrel_shot_var2_brit": "Lovely work, gents.",
+
+    "castle_opn_barrel_shot_var3_russ": "Another!",
+    "castle_opn_barrel_shot_var3_germ": "Oh, I love the flames!",
+    "castle_opn_barrel_shot_var3_brit": "Top hole! Keep looking.",
+    "castle_opn_barrel_shot_var3_amer": "Easy!",
+
+    "castle_opn_paratroopers_dropped_var1_russ": "Kurgan hear planes.",
+    "castle_opn_paratroopers_dropped_var1_brit": "Look out, air support.",
+    "castle_opn_paratroopers_dropped_var1_amer": "Up there, incoming!",
+    "castle_opn_paratroopers_dropped_var1_germ": "Achtung, airborne!",
+    
+    "castle_opn_paratroopers_dropped_var2_russ": "Nazis falling from sky!",
+    "castle_opn_paratroopers_dropped_var2_brit": "Heads up, gents: paratroopers.",
+    "castle_opn_paratroopers_dropped_var2_amer": "We got paratroopers!",
+    "castle_opn_paratroopers_dropped_var2_germ": "Paratroopers, above!",
+
+    "castle_opn_fire_spread_bant_var1_russ": "*laughs* It's just Kurgan, or is it hot in here?",
+    "castle_opn_fire_spread_bant_var1_germ": "Well, they always did have a fiery temper.",
+    "castle_opn_fire_spread_bant_var1_brit": "Haha, looks like the conversation is getting a little heated.",
+    "castle_opn_fire_spread_bant_var1_amer": "Haha, now the party is warming up!",
+
+    "castle_opn_fire_spread_bant_var2_brit": "Crikey, getting a bit warm here.",
+    "castle_opn_fire_spread_bant_var2_amer": "Christ, hot as a Texas asshole here.",
+    "castle_opn_fire_spread_bant_var2_russ": "Not used to such heat...",
+    "castle_opn_fire_spread_bant_var2_germ": "Let them all be turned to ash!",
+    
+    "castle_opn_fire_spread_bant_var3_amer": "God, hot as fuck.",
+    "castle_opn_fire_spread_bant_var3_brit": "Getting betty swollocks there, fellas.",
+    "castle_opn_fire_spread_bant_var3_russ": "So hot in mask!",
+    "castle_opn_fire_spread_bant_var3_germ": "The flames, the smoke - this is where you are headed!",
+
+    "castle_opn_shoot_barrels_rem_germ": "Reminder: shoot the barrels!",
+    "castle_opn_shoot_barrels_rem_brit": "Don't forget, we have to shoot barrels.",
+    "castle_opn_shoot_barrels_rem_russ": "Remember: we shoot barrels, da?",
+    "castle_opn_shoot_barrels_rem_amer": "Hey, remember: we need to shoot these barrels.",
+
+    "castle_opn_death_count_response_var1_germ": "Keep shooting!",
+    "castle_opn_death_count_response_var1_russ": "Ahahahahahaha!",
+    "castle_opn_death_count_response_var1_amer": "Hey, it's kill-your-krauts-at-work day.",
+    "castle_opn_death_count_response_var1_brit": "They don't learn, do they?",
+
+    "castle_opn_death_count_response_var2_amer": "They really wanna die today, don't they?",
+    "castle_opn_death_count_response_var2_germ": "Unleash hell!",
+    "castle_opn_death_count_response_var2_russ": "Die! Die!",
+    "castle_opn_death_count_response_var2_brit": "C'mon fellas, plenty to go yet.",
+
+    "castle_opn_death_count_response_var3_russ": "Kurgan send you all to hell!",
+    "castle_opn_death_count_response_var3_amer": "Come and get it!",
+    "castle_opn_death_count_response_var3_germ": "Punish them schweins!",
+    "castle_opn_death_count_response_var3_brit": "Hah, that's it!",
+
+    "castle_opn_death_count_response_var4_amer": "Don't feel left out, I've got something for you right here!",
+    "castle_opn_death_count_response_var4_russ": "Leave none alive!",
+    "castle_opn_death_count_response_var4_germ": "None shall escape!",
+    "castle_opn_death_count_response_var4_brit": "Top notch, keep it up!",
+
+    "castle_opn_death_count_response_var5_brit": "Jerries not having a good day!",
+    "castle_opn_death_count_response_var5_amer": "I got enough for everybody, come and get some!",
+    "castle_opn_death_count_response_var5_russ": "We kill you all!",
+    "castle_opn_death_count_response_var5_germ": "Suffer for your crimes!",
+
+    "castle_opn_death_count_response_var6_russ": "Come to Kurgan, stupid fascists!",
+    "castle_opn_death_count_response_var6_brit": "Good shot!",
+    "castle_opn_death_count_response_var6_germ": "Oh, that must've hurt!",
+    "castle_opn_death_count_response_var6_amer": "Keep it up, ladies.",
+
+    "castle_opn_death_count_response_var7_amer": "Oho, I could do this all fucking day.",
+    "castle_opn_death_count_response_var7_brit": "C'mon Jerry, we can keep this up all day!",
+    "castle_opn_death_count_response_var7_germ": "There's plenty more where that came from!",
+    "castle_opn_death_count_response_var7_russ": "You want more!? You want more!?",
+
+    "castle_opn_death_count_response_var8_brit": "Still haven't had enough, eh?",
+    "castle_opn_death_count_response_var8_germ": "Excellent shooting!",
+    "castle_opn_death_count_response_var8_russ": "Gates of hell are wide open!",
+    "castle_opn_death_count_response_var8_amer": "Like that? You like that!?",
+
+    "castle_opn_death_count_response_var9_amer": "Now that's a fucking great shot.",
+    "castle_opn_death_count_response_var9_russ": "Neeeeeeeext!",
+    "castle_opn_death_count_response_var9_germ": "Ya-ha-ha, ahaha!",
+    "castle_opn_death_count_response_var9_brit": "Give them what for!",
+
+    "castle_opn_enough_barrels2_russ": "Should be enough to fry many fascists.",
+    "castle_opn_enough_barrels2_brit": "If this doesn't burn them to a crisp, I don't know what will.",
+    "castle_opn_enough_barrels2_germ": "Enough flames to turn them to ash.",
+    "castle_opn_enough_barrels2_amer": "Ought to be enough to burn these assholes.",
+
+    "castle_opn_death_count_5_russ": "5 nazis dead.",
+    "castle_opn_death_count_5_brit": "That's 5.",
+    "castle_opn_death_count_5_germ": "I got my 5th!",
+    "castle_opn_death_count_5_amer": "Five.",
+
+    "castle_opn_death_count_10_amer": "Ten.",
+    "castle_opn_death_count_10_germ": "We've got 10!",
+    "castle_opn_death_count_10_brit": "Ten of the buggers.",
+    "castle_opn_death_count_10_russ": "I killed a 10!",
+
+    "castle_opn_death_count_15_germ": "Fifteen!",
+    "castle_opn_death_count_15_russ": "15 dead nazis.",
+    "castle_opn_death_count_15_brit": "That will make it 15.",
+    "castle_opn_death_count_15_amer": "Fifteen.",
+
+    "castle_opn_death_count_20_germ": "Twenty!",
+    "castle_opn_death_count_20_russ": "20 dead nazis.",
+    "castle_opn_death_count_20_brit": "That's 20.",
+    "castle_opn_death_count_20_amer": "Twenty.",
+
+    "castle_opn_death_count_25_germ": "That makes 25!",
+    "castle_opn_death_count_25_russ": "25 in the ground!",
+    "castle_opn_death_count_25_brit": "25 and counting.",
+    "castle_opn_death_count_25_amer": "Twenty five.",
+
+    "castle_opn_death_count_30_germ": "I got my 30th!",
+    "castle_opn_death_count_30_russ": "30 nazis are no more!",
+    "castle_opn_death_count_30_brit": "30 of the bastards.",
+    "castle_opn_death_count_30_amer": "Thirty.",
+
+    "castle_opn_death_count_40_germ": "We have killed 40!",
+    "castle_opn_death_count_40_russ": "That makes 40!",
+    "castle_opn_death_count_40_brit": "That's 40 dead nazis.",
+    "castle_opn_death_count_40_amer": "Forty.",
+
+    "castle_opn_death_count_50_germ": "Fifty!",
+    "castle_opn_death_count_50_russ": "That is number 50!",
+    "castle_opn_death_count_50_brit": "50 jerries down.",
+    "castle_opn_death_count_50_amer": "Fifty!",
+    
+    "castle_opn_death_count_60_germ": "We've killed 60!",
+    "castle_opn_death_count_60_russ": "That is number 60!",
+    "castle_opn_death_count_60_brit": "That's 60.",
+    "castle_opn_death_count_60_amer": "Sixty!",
+
+    "castle_opn_death_count_70_germ": "Seventy!",
+    "castle_opn_death_count_70_russ": "70 nazis dead.",
+    "castle_opn_death_count_70_brit": "I claim number 70.",
+    "castle_opn_death_count_70_amer": "Seventy!",
+
+    "castle_opn_death_count_80_germ": "That makes 80!",
+    "castle_opn_death_count_80_russ": "80 nazis dead.",
+    "castle_opn_death_count_80_brit": "80 down.",
+    "castle_opn_death_count_80_amer": "Eighty!",
+
+    "castle_opn_death_count_90_germ": "Ja, we've got 90 dead nazis!",
+    "castle_opn_death_count_90_russ": "90 nazis dead.",
+    "castle_opn_death_count_90_brit": "That's 90 dead.",
+    "castle_opn_death_count_90_amer": "Ninety!",
+
+    "castle_opn_death_count_100_germ": "One hundred!",
+    "castle_opn_death_count_100_russ": "100 dead nazis!",
+    "castle_opn_death_count_100_brit": "100 pushing up the daisies.",
+    "castle_opn_death_count_100_amer": "One hundred!",
+
+    "castle_opn_death_count_150_germ": "150 dead nazis!",
+    "castle_opn_death_count_150_russ": "150 fascists dead!",
+    "castle_opn_death_count_150_brit": "That's 150 of krauts.",
+    "castle_opn_death_count_150_amer": "A hundred fifty!",
+
+    "castle_opn_death_count_200_germ": "We've killed 200 nazis!",
+    "castle_opn_death_count_200_russ": "200 nazis I have!",
+    "castle_opn_death_count_200_brit": "Bye-bye, that's the 200.",
+    "castle_opn_death_count_200_amer": "Two hundred.",
+
+    "castle_opn_death_count_250_germ": "I've killed my 250th nazi!",
+    "castle_opn_death_count_250_russ": "250 nazis in the ground!",
+    "castle_opn_death_count_250_brit": "250 splattered.",
+    "castle_opn_death_count_250_amer": "Two hundred fifty.",
+
+    "castle_opn_killed_enough_enemies1_amer": "Oh boy, recon we had our fill of kills right there.",
+    "castle_opn_killed_enough_enemies1_brit": "I think that's probably about enough, gentlemen.",
+    "castle_opn_killed_enough_enemies1_russ": "So many dead nazis, I love it!",
+    "castle_opn_killed_enough_enemies1_germ": "I believe that we've spilled the required amount of nazi blood.",
+
+    "castle_opn_killed_enough_enemies2_brit": "Shame. I had a smashing time.",
+    "castle_opn_killed_enough_enemies2_amer": "*sigh* Finding my killing groove, you know what I mean?",
+    "castle_opn_killed_enough_enemies2_germ": "We had our fill already!?",
+    "castle_opn_killed_enough_enemies2_russ": "Kurgan could kill nazis all day!",
+
+    "castle_opn_raising_raid_flag": "Hey, get up there! *hums US anthem* Nice!",
+    "castle_opn_raising_raid_flag_brit": "Up she goes! *hums British anthem*",
+    "castle_opn_raising_raid_flag_russ": "Go!.. Up!.. YEAH!",
+    "castle_opn_raising_raid_flag_germ": "It is going up! Raid gang über alles!",
+
+    "castle_opn_raid_flag_raised_germ": "It warms the heart... Although... Perhaps something else is doing the warming!",
+    "castle_opn_raid_flag_raised_russ": "Now I'm king of castle, da?",
+    "castle_opn_raid_flag_raised_brit": "A beautiful sight, gentlemen.",
+    "castle_opn_raid_flag_raised_amer": "If it weren't for a smell of burnt flesh, this would be a hell of a moment, gang.",
+
+    "castle_opn_all_obj_done1_russ": "Time to go, it too hot here.",
+    "castle_opn_all_obj_done1_brit": "Let's get out of here before it's too hot for comfort.",
+    "castle_opn_all_obj_done1_germ": "Come, we must go! My boots are starting to melt!",
+    "castle_opn_all_obj_done1_amer": "Guess it's time to haul ass before this whole place goes up.",
+
+    "castle_opn_all_obj_done3_russ": "She did. I'm sure they're coming.",
+    "castle_opn_all_obj_done3_brit": "She did. They'll be here.",
+    "castle_opn_all_obj_done3_amer": "Yeah, she did. They'll be on their way.",
+    "castle_opn_all_obj_done3_germ": "Indeed. I am confident they are on their way.",
+
+    "castle_opn_resistance_arrives2_russ": "Good, time to go.",
+    "castle_opn_resistance_arrives2_brit": "Well, thank fuck for that.",
+    "castle_opn_resistance_arrives2_germ": "Just in time! Come, we go!",
+    "castle_opn_resistance_arrives2_amer": "Thank fuck. C'mon, we are leaving."
 }
