@@ -8,7 +8,12 @@
         "Hooks",
         "World",
         "Vector3",
-        "CopDamage"
+        "CopDamage",
+        "DialogManager",
+        "tweak_data",
+        "Application",
+        "log",
+        "inspect"
     ],
     "deno.enable": true
 }
