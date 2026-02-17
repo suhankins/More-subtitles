@@ -4,7 +4,7 @@
 	author="Punished Bernadetta"
 	color="191 0 73"
     version="1.0"
-	description=""
+	description="Adds a lot of missing subtitles to the game"
 >
     <hooks>
 		<post
@@ -15,4 +15,7 @@
 	<localization directory="loc" default="english.json">
 		<loc file="english.json" language="english"/>
 	</localization>
+    <updates>
+        <update provider="modworkshop" id="55340"/>
+	</updates>
 </mod>
