@@ -246,6 +246,98 @@
     "bank_plane_started_russ": "Clear for take off. Go!",
     "bank_plane_started_brit": "You're clear? Go, go!",
 
+    "bank_op_ste_picked_cylinders2_brit": "Is it rotor-y? Then it's a bloody rotor!",
+    "bank_op_ste_picked_cylinders2_amer": "You mean that rotor thing in your hand? What do you think?",
+    "bank_op_ste_picked_cylinders2_russ": "Is round, looks like rotor? I'm no expert, but seem like rotor.",
+    "bank_op_ste_picked_cylinders2_germ": "What gave it away? Of course it is a rotor!",
+
+    "bank_op_ste_picked_cylinders_var2_2_amer": "Oh, so your eyesight ain't so bad after all. Yeah, that's a rotor.",
+    "bank_op_ste_picked_cylinders_var2_2_russ": "You are joking or foolish? Da, that is rotor you hold!",
+    "bank_op_ste_picked_cylinders_var2_2_germ": "You are not mistaken, but you are stating the obvious. That is a rotor, yes.",
+    "bank_op_ste_picked_cylinders_var2_2_brit": "Yeah, a lesser spotted rotor does rather blend in with its surroundings.",
+
+    "bank_op_ste_in_find_enigma_rem_var1_amer": "Guys, can we hurry up and grab that Enigma machine now?",
+    "bank_op_ste_in_find_enigma_rem_var1_germ": "This must be where they have their Enigma machine. Let us take it, swiftly.",
+    "bank_op_ste_in_find_enigma_rem_var1_brit": "The Enigma machine won't find *us*, so we better to find *it*.",
+    "bank_op_ste_in_find_enigma_rem_var1_russ": "Good, we find Enigma machine in here, da?",
+
+    "bank_op_ste_in_find_enigma_rem_var2_amer": "Let's see, next on the shopping list is that Enigma machine, so can we go grab it now?",
+    "bank_op_ste_in_find_enigma_rem_var2_germ": "We are surely close to their Enigma machine now, gentlemen.",
+    "bank_op_ste_in_find_enigma_rem_var2_russ": "So what does Engima machine look like? It is in here, da?",
+    "bank_op_ste_in_find_enigma_rem_var2_brit": "The Enigma machine can't be far, chaps. Let's grab it.",
+
+    "bank_op_ste_entered_bank1_germ": "Mein gott, such beauty.",
+    "bank_op_ste_entered_bank1_brit": "Crikey, look at this place!",
+    "bank_op_ste_entered_bank1_russ": "Bozhe moi, lot of gold spent here.",
+    "bank_op_ste_entered_bank1_amer": "Will you look at this place.",
+    
+    "bank_op_ste_entered_bank2_amer": "I guess being slime of humanity pays well.",
+    "bank_op_ste_entered_bank2_brit": "There must be good money in being a goosestepping moron.",
+    "bank_op_ste_entered_bank2_russ": "Fascist have different idea of redistributing wealth.",
+    "bank_op_ste_entered_bank2_germ": "Did you say something? Sorry, this wealth is... Mmh... Intoxicating.",
+
+    "bank_op_ste_escape1_russ": "We have machine, we have rotors.",
+    "bank_op_ste_escape1_amer": "We got the machine, and we got the rotors.",
+    "bank_op_ste_escape1_brit": "Let's see: Enigma machine and the rotors.",
+    "bank_op_ste_escape1_germ": "The enigma and rotors are ours.",
+
+    "bank_op_ste_escape2_brit": "I think we have what we need.",
+    "bank_op_ste_escape2_germ": "Then it is time to leave.",
+    "bank_op_ste_escape2_russ": "Time to go.",
+
+    "bank_op_ste_escape3_germ": "Indeed. And stay quiet.",
+    "bank_op_ste_escape3_brit": "And keep it quiet.",
+    "bank_op_ste_escape3_russ": "Da, we leave. Quietly.",
+
+    "bank_op_loud_escape1_russ": "Have code machine, have rotors. Party is over.",
+    "bank_op_loud_escape1_brit": "Right, we have Enigma, and we have the rotors.",
+    "bank_op_loud_escape1_germ": "We have the Enigma and the rotors!",
+    "bank_op_loud_escape1_amer": "We got what we came for.",
+
+    "bank_op_loud_escape2_brit": "Let's leave before the rest of the Wehrmacht gets here.",
+    "bank_op_loud_escape2_amer": "Now let's get the hell out of here!",
+    "bank_op_loud_escape2_germ": "Let us leave while we are able.",
+    "bank_op_loud_escape2_russ": "Time to go.",
+
+    "bank_op_tank_appears1_russ": "Bozhe moi!",
+    "bank_op_tank_appears1_brit": "Blast!",
+    "bank_op_tank_appears1_amer": "Christ!",
+    "bank_op_tank_appears1_germ": "Achtung!",
+
+    "bank_op_tank_destro_truck1_russ": "Truck was our escape!",
+    "bank_op_tank_destro_truck1_amer": "That truck was our getaway!",
+    "bank_op_tank_destro_truck1_brit": "There goes our escape!",
+    "bank_op_tank_destro_truck1_germ": "That was our escape!",
+
+    "bank_op_luring_tank_var1_amer": "Come on, this way, you big chunk of shit!",
+    "bank_op_luring_tank_var1_brit": "That's it! Keep going, you big bugger.",
+    "bank_op_luring_tank_var1_russ": "Follow, good tiger. Follow...",
+    "bank_op_luring_tank_var1_germ": "Ja! Keep on following on Wolfgang!",
+
+    "bank_op_luring_tank_var2_russ": "This way, please!",
+    "bank_op_luring_tank_var2_brit": "Keep following! There's a good chap!",
+    "bank_op_luring_tank_var2_germ": "Keep following! Gut, sehr gut!",
+
+    "bank_op_tank_almost_there_var1_amer": "That's it, almost there now. Keep coming.",
+    "bank_op_tank_almost_there_var1_germ": "Ja, you are so close! Come on now!",
+    "bank_op_tank_almost_there_var1_russ": "Come, little more...",
+    "bank_op_tank_almost_there_var1_brit": "Come on, you are almost where we want you!",
+
+    "bank_op_tank_almost_there_var2_brit": "Almost there... Just a little further... You twat...",
+    "bank_op_tank_almost_there_var2_russ": "Just a little further...",
+    "bank_op_tank_almost_there_var2_germ": "Keep coming! Don't stop! Almost there.",
+    "bank_op_tank_almost_there_var2_amer": "You are right about there, just a wee bit further!",
+
+    "bank_op_tank_blows_wall_var1_amer": "There's the gap! Alright, everyone through, now!",
+    "bank_op_tank_blows_wall_var1_russ": "It worked, we have way out!",
+    "bank_op_tank_blows_wall_var1_brit": "Boom! There it is, our way out. Go, go!",
+    "bank_op_tank_blows_wall_var1_germ": "Bang! Hahaha, it worked! Dummkopf has provided a way out!",
+
+    "bank_op_tank_blows_wall_var2_germ": "Hahahaha! There we have a way out. Get through, schnell!",
+    "bank_op_tank_blows_wall_var2_russ": "Bang, hohoho, we have way out! Go now!",
+    "bank_op_tank_blows_wall_var2_amer": "Alright, it worked, we got a gap. Get through it!",
+    "bank_op_tank_blows_wall_var2_brit": "It blew the wall! That's the way out, get through!",
+
     "castle_spawn_amer": "Ha-ha-ha, this is the shit!",
     "castle_spawn_brit": "Next time, Sterling, bring a pillow.",
     "castle_spawn_germ": "Ha! I could get used to traveling this way!",

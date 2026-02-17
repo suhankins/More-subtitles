@@ -2,11 +2,20 @@
 
 Project to add more subtitles to RAID: World War II.
 
-Currently finished:
+## Currently finished
 
 * Strongpoint
 * Firestarter
 * Gold Rush
+* Enigmatic
+
+## Plans
+
+Add subtitles for
+
+* All raids
+* All operations
+* Camp dialogue
 
 ## Dev tools
 
