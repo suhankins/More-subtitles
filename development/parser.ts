@@ -1,15 +1,20 @@
-import file from "../loc/english.json" with { type: "json" };
+import file from '../loc/english.json' with { type: 'json' };
 
-let string = "local ADDED_STRING_ID_TO_SOUNDS = {\n"
-const addedKeys: string[] = []
+let string = 'local ADDED_STRING_ID_TO_SOUNDS = {\n';
+const addedKeys: string[] = [];
 
 for (const key of Object.keys(file)) {
-    const changedKey = key.replace('_brit', '').replace(new RegExp('_russ$'), '').replace('_amer', '').replace('_germ', '')
+    const changedKey = key
+        .replace(new RegExp('_brit$'), '')
+        .replace(new RegExp('_russ$'), '')
+        .replace(new RegExp('_amer$'), '')
+        .replace(new RegExp('_germ$'), '');
     if (addedKeys.includes(changedKey)) {
-        continue
+        continue;
     }
-    addedKeys.push(changedKey)
-    string += `    ["${changedKey}"] = true,\n`
+    addedKeys.push(changedKey);
+    string += `    ["${changedKey}"] = true,\n`;
 }
-string += '}'
-console.log(string)
+string += '}';
+
+console.log(string);
