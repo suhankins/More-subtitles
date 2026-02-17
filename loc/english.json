@@ -222,7 +222,7 @@
     "bank_loot_drop_var1_germ": "The gold is on the plane!",
 
     "bank_loot_drop_var2_brit": "Hope it can still take off.",
-    "bank_loot_drop_var2_russ": "Good amount of gold. Mrs White will be pleased. But more gold can be ours, I think.",
+    "bank_loot_drop_var2_russ": "Good amount of gold. Mrs. White will be pleased. But more gold can be ours, I think.",
     "bank_loot_drop_var2_amer": "Hope it's not make it too heavy, or else Wolfgang is gotta walk... Haha... Kidding.",
     "bank_loot_drop_var2_germ": "I pray the plane can still fly with so much gold.",
 
@@ -231,9 +231,9 @@
     "bank_carry_bags_rem_germ": "The gold must be on the plane, gentlemen!",
     "bank_carry_bags_rem_russ": "Gold is no good in vehicle. Get it on plane!",
 
-    "bank_start_plane1_russ": "Good haul, da? For Mrs White - enough, maybe.",
-    "bank_start_plane1_amer": "I think that's enough swag for Mrs White, but there might be more we can scoop up.",
-    "bank_start_plane1_brit": "I think that's a nice amount. Enough for Mrs White.",
+    "bank_start_plane1_russ": "Good haul, da? For Mrs. White - enough, maybe.",
+    "bank_start_plane1_amer": "I think that's enough swag for Mrs. White, but there might be more we can scoop up.",
+    "bank_start_plane1_brit": "I think that's a nice amount. Enough for Mrs. White.",
     "bank_start_plane1_germ": "I expect Frau White will find this a sufficient amount of gold.",
 
     "bank_more_gold1_amer": "Call me an opportunist, but back there's plenty more gold back in that vault. Just saying.",
@@ -382,8 +382,8 @@
     "castle_get_to_tower2_germ": "Indeed! A mast of that size should fit the bill nicely! Let us proceed!",
 
     "castle_get_to_tower_rem_russ": "I wish to leave this place, so we go to radio mask at once.",
-    "castle_get_to_tower_rem_amer": "C'mon, we gotta head for the radio mast, give Mrs White a call.",
-    "castle_get_to_tower_rem_brit": "Let's head to the mast and let Mrs White know we are ready to leave.",
+    "castle_get_to_tower_rem_amer": "C'mon, we gotta head for the radio mast, give Mrs. White a call.",
+    "castle_get_to_tower_rem_brit": "Let's head to the mast and let Mrs. White know we are ready to leave.",
     "castle_get_to_tower_rem_germ": "Come now, let us not keep Frau White waiting! To the radio mast!",
 
     "castle_radio_report5_russ": "\"Safe\" is last thing on my mind.",
@@ -393,18 +393,18 @@
 
     "castle_wait_extraction_plan2_russ": "Mrs. White keeps us waiting.",
     "castle_wait_extraction_plan2_germ": "It is unlike Frau White to take so long.",
-    "castle_wait_extraction_plan2_amer": "Where the hell is Mrs White!?",
+    "castle_wait_extraction_plan2_amer": "Where the hell is Mrs. White!?",
     "castle_wait_extraction_plan2_brit": "Where the devil is she?",
 
     "castle_wait_extraction_plan3_germ": "Frau White has never let us down. She will respond.",
-    "castle_wait_extraction_plan3_brit": "Patience. Mrs White will get back to us any second.",
+    "castle_wait_extraction_plan3_brit": "Patience. Mrs. White will get back to us any second.",
     "castle_wait_extraction_plan3_amer": "She'll get back to us! ...C'mon doll, where are you!?",
     "castle_wait_extraction_plan3_russ": "No matter, it is not like we have nothing to do.",
 
     "castle_wait_extraction_plan_rem_germ": "Hm, Frau White tests my patience... I almost enjoy it!",
-    "castle_wait_extraction_plan_rem_russ": "Mrs White making cup of tea?! I grow tired of waiting!",
-    "castle_wait_extraction_plan_rem_brit": "C'mon Mrs White.",
-    "castle_wait_extraction_plan_rem_amer": "Damn it, Mrs White where are you!?",
+    "castle_wait_extraction_plan_rem_russ": "Mrs. White making cup of tea?! I grow tired of waiting!",
+    "castle_wait_extraction_plan_rem_brit": "C'mon Mrs. White.",
+    "castle_wait_extraction_plan_rem_amer": "Damn it, Mrs. White where are you!?",
 
     "castle_found_general1_russ": "A general, he here!",
     "castle_found_general1_amer": "Got one of the generals.",
