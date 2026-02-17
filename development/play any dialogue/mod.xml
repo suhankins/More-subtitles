@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<mod
+	name="Play any dialogue testing mod"
+	author="Punished Bernadetta"
+	description=""
+	version="1.0"
+    color="191 0 73"
+>
+	<keybinds>
+		<keybind
+        	keybind_id="play_dialog"
+        	name="Play dialog"
+        	script_path="play.lua" />
+	</keybinds>
+</mod>

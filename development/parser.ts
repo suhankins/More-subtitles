@@ -1,4 +1,4 @@
-import file from "./loc/english.json" with { type: "json" };
+import file from "../loc/english.json" with { type: "json" };
 
 let string = "local ADDED_STRING_ID_TO_SOUNDS = {\n"
 const addedKeys: string[] = []
