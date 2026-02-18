@@ -3,13 +3,17 @@
     name="More subtitles"
 	author="Punished Bernadetta"
 	color="191 0 73"
-    version="1.0"
+    version="1.0.1"
 	description="Adds a lot of missing subtitles to the game"
 >
     <hooks>
 		<post
             hook_id="lib/managers/dialogmanager"
             script_path="dialogmanager.lua"
+        />
+        <post
+            hook_id="lib/units/dramaext"
+            script_path="dramaext.lua"
         />
     </hooks>
 	<localization directory="loc" default="english.json">
