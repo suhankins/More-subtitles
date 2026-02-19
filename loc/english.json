@@ -1,6 +1,6 @@
 {
     "bank_spawn_land1_brit": "Blasted fly boys failed to breach the Treasury. How the damn are we supposed to get in now?",
-    "bank_spawn_land1_germ": "Our air support has disappointed, the Treasury is more intact than we were promised. How do we get in now?",
+    "bank_spawn_land1_germ": "Our air support have disappointed, the Treasury is more intact than we were promised. How do we get in now?",
     "bank_spawn_land1_amer": "The damn plane's missed! Treasury is locked tight, we ain't got a way in, what do we do!?",
     "bank_spawn_land1_russ": "Sabre Squadron... Bah, they cannot aim. Building still hold. How to get in?",
 
@@ -174,10 +174,20 @@
     "bank_fence_smashed1_germ": "Kaboosh, ha! No fence can stop us!",
     "bank_fence_smashed1_amer": "Hehe, fuck you, fence!",
 
+    "bank_car_explosion_brit": "Bloody hell!",
+    "bank_car_explosion_amer": "Jesus Christ!",
+    "bank_car_explosion_germ": "Was zur Hölle?!",
+    "bank_car_explosion_russ": "Stalin's balls!",
+
     "bank_car_explosion_var2_germ": "Careful! I would not like to see if this vehicle can take a direct hit!",
     "bank_car_explosion_var2_russ": "Car is not Russian - it's not strong! Take care of car!",
     "bank_car_explosion_var2_amer": "Watch it, we have a precious cargo - and I don't mean me!",
     "bank_car_explosion_var2_brit": "Christ on a bike! Let's not get our car killed.",
+
+    "bank_car_explosion_var3_brit": "If you want to keep all this gold, we need to get to the plane ALIVE, understood?",
+    "bank_car_explosion_var3_amer": "If you wanna get paid, we gotta keep this car in one piece!",
+    "bank_car_explosion_var3_germ": "This car is no good to us blown to pieces!",
+    "bank_car_explosion_var3_russ": "Car has served us well. We should keep car alive, da?",
 
     "bank_get_to_the_gate_rem_russ": "By the way, we must go to resistance plane right now.",
     "bank_get_to_the_gate_rem_amer": "Hurry it up, we gotta get to the resistance plane.",
@@ -188,6 +198,8 @@
     "bank_driving_around_var1_russ": "Resistance? Come out, come out, whereever you are.",
     "bank_driving_around_var1_germ": "The resistance should not be hiding from us.",
     "bank_driving_around_var1_brit": "Where the bally hell is the resistance?",
+
+    "bank_driving_around_var2_amer": "The resistance has gotta be around here somewhere!",
 
     "bank_secure_loot1_amer": "I'll be damned, there's the resistance!",
     "bank_secure_loot1_brit": "Well, stone me, there's the resistance.",
@@ -203,6 +215,16 @@
     "bank_carry_bags_var1_2_germ": "Be on guard: if I were a sniper, this would be a good place to target.",
     "bank_carry_bags_var1_2_amer": "Just keep your eyes peeled: soon as we are in the open, we are sitting ducks for any snipers.",
     "bank_carry_bags_var1_2_brit": "Stay sharp, lads: this looks like a prime locations for the damnable snipers, if you ask me.",
+
+    "bank_carry_bags_var2_1_brit": "This gold won't put itself on this plane, chaps.",
+    "bank_carry_bags_var2_1_russ": "Come now, we must put gold into plane.",
+    "bank_carry_bags_var2_1_amer": "Let's get this gold in that plane, c'mon!",
+    "bank_carry_bags_var2_1_germ": "The gold will require assistance to get on the plane!",
+
+    "bank_carry_bags_var2_2_germ": "Be mindful of our surroundings, I anticipate they will place more enemies soon.",
+    "bank_carry_bags_var2_2_russ": "I expect nazis will try to stop us. They are welcome to try!",
+    "bank_carry_bags_var2_2_brit": "Keep your eyes pealed. Wouldn't expect jerries to give up the goods without a fight.",
+    "bank_carry_bags_var2_2_amer": "Watch out for trouble! They ain't gonna take kindly to us robbing them.",
 
     "bank_resist_pilot_welcome_var1": "What took you people so long?",
     "bank_resist_pilot_welcome_var2": "Oh, you took your damn time.",
