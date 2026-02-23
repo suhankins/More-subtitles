@@ -750,5 +750,339 @@
     "castle_opn_resistance_arrives2_russ": "Good, time to go.",
     "castle_opn_resistance_arrives2_brit": "Well, thank fuck for that.",
     "castle_opn_resistance_arrives2_germ": "Just in time! Come, we go!",
-    "castle_opn_resistance_arrives2_amer": "Thank fuck. C'mon, we are leaving."
+    "castle_opn_resistance_arrives2_amer": "Thank fuck. C'mon, we are leaving.",
+
+    "radiobase_spawn2_brit": "They don't know we are here.",
+    "radiobase_spawn2_russ": "They don't see us yet.",
+    "radiobase_spawn2_amer": "Krauts don't know we are here.",
+    "radiobase_spawn2_germ": "We have an element of surprise on our side.",
+
+    "radiobase_spawn3_amer": "Great, then let's keep it quiet.",
+    "radiobase_spawn3_russ": "Good, let's stay quiet.",
+    "radiobase_spawn3_germ": "This is good. We should aim to stay quiet.",
+    "radiobase_spawn3_brit": "So let's try to keep it quiet as long as we can.",
+
+    "radiobase_post_spawn1_amer": "That's the radio mast. 10 bucks says they have Lange somewhere around there.",
+    "radiobase_post_spawn1_russ": "Radio tower, straight ahead. Lange will be near.",
+    "radiobase_post_spawn1_germ": "You see the radio tower there? I'm quite certain they'll be holding Lange close by.",
+    "radiobase_post_spawn1_brit": "Up ahead, chaps, see that radio tower? I bet they have Lange nearby.",
+    
+    "radiobase_post_spawn2_russ": "They do not see us yet. We can move in shadows... or we shoot them all. I know which I prefer.",
+    "radiobase_post_spawn2_amer": "Those lousy krauts don't know we are here. We can creep right in. Or go in all guns blazing.",
+    "radiobase_post_spawn2_germ": "We have the element of surprise: we can catch them off guard, or we can stay out of sight.",
+    "radiobase_post_spawn2_brit": "They haven't the foggiest idea that we are here, so we can sneak in, or we can burst in.",
+
+    "radiobase_spot_guards1_amer": "Watch it, guards!",
+    "radiobase_spot_guards1_brit": "Steady, I see some guards.",
+    "radiobase_spot_guards1_germ": "These grounds are guarded.",
+    "radiobase_spot_guards1_russ": "Careful, guards.",
+
+    "radiobase_spot_guards2_amer": "How long you reckon we can stay out of sight?",
+    "radiobase_spot_guards2_brit": "How far do you think we can get without them seeing us?",
+    "radiobase_spot_guards2_russ": "Don't let them see you.",
+    "radiobase_spot_guards2_germ": "Indeed. Stay out of sight.",
+
+    "__radio_op_get_to_tower_rem is not transcribed because it changes from stealth to loud": "",
+
+    "radiobase_find_franz3_brit": "Don't suppose you fellas know what Lange looks like by any chance?",
+    "radiobase_find_franz3_amer": "So this Lange guy, is he tall? Short? Skinny? Fat?",
+    "radiobase_find_franz3_germ": "I don't suppose Frau White provided a photograph of Lange, did she?",
+    "radiobase_find_franz3_russ": "How we know Lange? Scars? Tattoo? ...Missing leg?",
+
+    "radiobase_find_franz4_amer": "We ain't heading to a prison, he'll be the only guy chained and guarded.",
+    "radiobase_find_franz4_russ": "We find a prisoner - that is Lange!",
+    "radiobase_find_franz4_brit": "I'd imagine he's the only chap being held prisoner. Should be easy to spot.",
+    "radiobase_find_franz4_germ": "Believe me, out of everyone we are about to... Meet, only one will be a prisoner.",
+
+    "radiobase_clear_area_brit": "Let's get rid of these sentries.",
+    "radiobase_clear_area_russ": "Let us crush these pinheads.",
+    "radiobase_clear_area_amer": "Let's take out these krauts.",
+    "radiobase_clear_area_germ": "We should remove some pawns from this board, yes?",
+
+    "__radiobase_clear_area2_brit changes depending on state": "",
+
+    "radiobase_clear_area_rem5_amer": "Why do the krauts want to nail this guy so badly anyway?",
+    "radiobase_clear_area_rem5_germ": "So many flies to guard one rotten apple?",
+    "radiobase_clear_area_rem5_russ": "Lot of scum to guard one man.",
+    "radiobase_clear_area_rem5_brit": "Is it just me, or does it seem like an awful lot of jerries to guard one man?",
+
+    "radiobase_clear_area_rem6_brit": "There's no doubt they think he knows something.",
+    "radiobase_clear_area_rem6_russ": "Fascists love to keep their secrets very... secret.",
+    "radiobase_clear_area_rem6_amer": "Guess Hitler and Himmler really hate people snooping on their pillow talk.",
+    "radiobase_clear_area_rem6_germ": "I presume Lange knows far more than they would like.",
+
+    "radiobase_clear_area_rem7_russ": "Who cares? Mrs. White want him and intel, so we get him and intel.",
+    "radiobase_clear_area_rem7_amer": "Guys, does it matter? Mrs. White wants him out alive, with all juicy intel, alright?",
+    "radiobase_clear_area_rem7_brit": "Well, Mrs. White wants him out alive. And the intel.",
+    "radiobase_clear_area_rem7_germ": "Regardless, Mrs. White wants the intel intact, and for Lange to be breathing, not bleeding.",
+
+    "radiobase_area_cleared2_brit": "Wasn't that hard, now was it?",
+    "radiobase_area_cleared2_germ": "I expected sterner opposition.",
+    "radiobase_area_cleared2_russ": "Ha, not one left standing. Too easy.",
+    "radiobase_area_cleared2_amer": "Huh, that was easy.",
+
+    "__radiobase_area_cleared3 is not transcribed because it changes from stealth to loud": "",
+
+    "radiobase_tech_tied_rem": "Free me, please!",
+
+    "radiobase_free_franz4_amer": "Hope he ain't too messed up...",
+    "radiobase_free_franz4_germ": "I hope they were not too forceful in their interrogation.",
+    "radiobase_free_franz4_brit": "Indeed. Hopefully the old chap isn't beaten up too much.",
+    "radiobase_free_franz4_russ": "He still breathes, I hope.",
+
+    "radiobase_free_franz_rem3_germ": "Lange must be here somewhere.",
+    "radiobase_free_franz_rem3_brit": "Any sign of Lange over there?",
+    "radiobase_free_franz_rem3_amer": "You know, I still got no idea what this guy looks like.",
+    "radiobase_free_franz_rem3_russ": "Anyone seeing Lange?",
+
+    "radiobase_free_franz_rem4_amer": "Keep searching.",
+    "radiobase_free_franz_rem4_russ": "Look harder!",
+    "radiobase_free_franz_rem4_germ": "Find him!",
+    "radiobase_free_franz_rem4_brit": "Keep looking!",
+
+    "radiobase_technician_free_brit": "Herr Lange, I presume. The Raid Gang, at your service.",
+    "radiobase_technician_free_amer": "Heil Franz, ve are ze Raid Gang, ya-da, ya-da, whatever.",
+    "radiobase_technician_free_russ": "You are Lange?",
+    "radiobase_technician_free_germ": "Sind Sie Herr Lange?",
+
+    "radiobase_technician_free2_brit": "Mrs. White sent us.",
+    "radiobase_technician_free2_amer": "We were sent by Mrs. White!",
+    "radiobase_technician_free2_germ": "Frau Weiss schickte uns!",
+    "radiobase_technician_free2_russ": "Mrs. White says \"hello\"!",
+
+    "radiobase_technician_free3": "Ah, thank you, mein violent friends!",
+
+    "radiobase_searching_for_wire_tools1_amer": "So all we gotta do, is find the tools Lange needs, right?",
+    "radiobase_searching_for_wire_tools1_russ": "Lange needs tools, yes? Then we find tools!",
+    "radiobase_searching_for_wire_tools1_brit": "Now Lange needs those tools, where the ruddy hell are they?",
+    "radiobase_searching_for_wire_tools1_germ": "Wir müssen the tools finden Herr Lange requires! Any idea to where to look?",
+
+    "radiobase_pick_tools_rem1_germ": "Is this a joke? Where are those tools?",
+    "radiobase_pick_tools_rem1_russ": "Am I blind? I cannot find the tools!",
+    "radiobase_pick_tools_rem1_amer": "Shit, these tools gotta be around here.",
+    "radiobase_pick_tools_rem1_brit": "Where the buggering bollocks are those tools!?",
+
+    "radiobase_pick_tools_rem3_brit": "Blast, can't find them. Any of you chaps having better luck?",
+    "radiobase_pick_tools_rem3_russ": "I do not see tools... And I wish to find them!",
+    "radiobase_pick_tools_rem3_germ": "Tools cannot be far. Come, we find them.",
+    "radiobase_pick_tools_rem3_amer": "For crying out loud, where are those damned tools?",
+
+    "radiobase_prepare_for_attack_complete1_germ": "Barricade is in place!",
+    "radiobase_prepare_for_attack_complete1_amer": "Done. Can't do more with it now.",
+    "radiobase_prepare_for_attack_complete1_brit": "There. Best we can do for now.",
+    "radiobase_prepare_for_attack_complete1_russ": "Barricade built!",
+    
+    "radiobase_prepare_for_attack_complete2_russ": "Should hold them back. For awhile...",
+    "radiobase_prepare_for_attack_complete2_germ": "It should offer us some protection for awhile!",
+    "radiobase_prepare_for_attack_complete2_brit": "Should hold them awhile.",
+    "radiobase_prepare_for_attack_complete2_amer": "Outta keep them off us for awhile.",
+
+    "radiobase_tools_found_germ": "I think this is the tools. Ja, I'm sure of it.",
+    "radiobase_tools_found_brit": "Are these they? They look like the right sort of bloody gizmos.",
+    "radiobase_tools_found_russ": "These look like they could be them.",
+    "radiobase_tools_found_amer": "Let's see... Yeah, hey, I got his tools!",
+
+    "radiobase_tools_picked_rem2_russ": "Return tools to Lange, now!",
+    "radiobase_tools_picked_rem2_germ": "Get Lange his tools, schnell!",
+    "radiobase_tools_picked_rem2_brit": "I say do hurry up and give Lange his tools.",
+    "radiobase_tools_picked_rem2_amer": "Get these tools to Lange already!",
+
+    "radiobase_deliver_tools2_germ": "Your tools, Herr Lange.",
+    "radiobase_deliver_tools2_amer": "Here. Now, do whatcha gotta do.",
+    "radiobase_deliver_tools2_brit": "Here you go, old boy.",
+    "radiobase_deliver_tools2_russ": "Take them.",
+
+    "radiobase_technician_climbs_brit": "Careful now, Herr Lange.",
+    "radiobase_technician_climbs_germ": "Be mindful of that ladder, ja?",
+    "radiobase_technician_climbs_russ": "Don't fall, da?",
+    "radiobase_technician_climbs_amer": "Watch your step!",
+
+    "radiobase_franz_climbing1_brit": "Steady now, Herr Lange... Poor bugger is gonna fall if he isn't careful.",
+    "radiobase_franz_climbing1_amer": "Christ, he ain't exactly safe up there...",
+    "radiobase_franz_climbing1_russ": "He looks not so steady, this German... Keep an eye, da?",
+    "radiobase_franz_climbing1_germ": "Let us hope the torture did not affect his balance.",
+
+    "radiobase_defend_1st_barricade1_north_amer": "North, huh? Alright, let's get ready to greet them.",
+    "radiobase_defend_1st_barricade1_north_germ": "The North? Time for a party, ja?",
+    "radiobase_defend_1st_barricade1_north_russ": "North? Let's say hello!",
+    "radiobase_defend_1st_barricade1_north_brit": "North, eh? Let's welcome them properly.",
+
+    "radiobase_defend_1st_barricade1_south_russ": "South! Let's say hello!",
+    "radiobase_defend_1st_barricade1_south_brit": "South, eh? Let's welcome them properly.",
+    "radiobase_defend_1st_barricade1_south_germ": "The South? Time for a party, ja?",
+    "radiobase_defend_1st_barricade1_south_amer": "Hold the line at the barricade, that's our best bet for holding them back!",
+
+    "radiobase_tank_banter1_brit": "Think fast, chaps. We've got nothing here that can take out that tank. Any ideas?",
+    "radiobase_tank_banter1_amer": "I ain't seen a Tiger since Kasserine!",
+    "radiobase_tank_banter1_russ": "We are not equipped to fight tank!",
+    "radiobase_tank_banter1_germ": "This is bad! We cannot defeat this head on!",
+    
+    "radiobase_tank_banter2_amer": "Glad we ain't fighting in a tank on this one.",
+    "radiobase_tank_banter2_russ": "Our guns are useless against tank. There are barricades - they are how we stop tank!",
+    "radiobase_tank_banter2_brit": "Our guns will barely make a dent on that Tiger tank, but it won't be able to get past those barricades.",
+    "radiobase_tank_banter2_germ": "We might as well have toy guns for all the good they'll do against that Tiger! Aha, the barricades! They will stop the tank!",
+
+    "radiobase_tank_banter3_russ": "Defend barricades, or we say hello to tank!",
+    "radiobase_tank_banter3_brit": "By Jove, you're right! Defend the barricades. They are the only thing that will hold it back.",
+    "radiobase_tank_banter3_germ": "Achtung, the barricades are our only defense against it! Do not let the schweins near them!",
+    "radiobase_tank_banter3_amer": "Those Tigers can open a Sherman like a tin can from a mile away!",
+
+    "radiobase_tank_banter4_russ": "Lange is half the mission, intel is other half. Both must be safe.",
+    "radiobase_tank_banter4_brit": "We are not just here for Lange, we need to get him and the intel out here safely.",
+    "radiobase_tank_banter4_amer": "We gotta get Lange and all his secrets out of here in one piece!",
+    "radiobase_tank_banter4_germ": "Lange is just as important as the intel he gathers! We must take both back with us!",
+
+    "radiobase_tank_destroys_gate2_amer": "Just try to keep them back!",
+    "radiobase_tank_destroys_gate2_russ": "Stand and fight! Kurgan push them back!",
+    "radiobase_tank_destroys_gate2_brit": "Hold them back!",
+    "radiobase_tank_destroys_gate2_germ": "Stand firm. We will crush them!",
+
+    "radiobase_barricade_down2_amer": "Oh fuck.",
+    "radiobase_barricade_down2_brit": "Bugger!",
+    "radiobase_barricade_down2_russ": "Mother of shit!",
+    "radiobase_barricade_down2_germ": "Scheisse!",
+
+    "radiobase_barricade_down3_russ": "Did you all sleep? Kurgan did not!",
+    "radiobase_barricade_down3_brit": "I say, weren't we supposed to defend that?",
+    "radiobase_barricade_down3_germ": "You disappoint me, gentlemen.",
+    "radiobase_barricade_down3_amer": "Oh, great job defending it, you fucking assholes.",
+    
+    "radiobase_barricade_down4_amer": "They're coming thick and fast!",
+    "radiobase_barricade_down4_brit": "There's simply too many!",
+    "radiobase_barricade_down4_russ": "Too many!",
+    "radiobase_barricade_down4_germ": "They outnumber us significantly.",
+
+    "radiobase_protect_barricade1_germ": "They will try to take down the barricades.",
+    "radiobase_protect_barricade1_russ": "They will aim at barricades!",
+    "radiobase_protect_barricade1_amer": "They are gonna try and take down the barricades!",
+    "radiobase_protect_barricade1_brit": "Jerry's going to try and tear down the barricades.",
+
+    "radiobase_protect_barricade2_brit": "Probably got breaching charges.",
+    "radiobase_protect_barricade2_germ": "I'm sure they will use explosives.",
+    "radiobase_protect_barricade2_russ": "Maybe with explosives.",
+    "radiobase_protect_barricade2_amer": "Likely gonna try some explosives on them!",
+
+    "radiobase_enemy_plant_dyna2_brit": "Get him, get him!",
+    "radiobase_enemy_plant_dyna2_germ": "Stop him!",
+    "radiobase_enemy_plant_dyna2_russ": "Destroy him!",
+    "radiobase_enemy_plant_dyna2_amer": "Shoot him!",
+
+    "radiobase_enemy_plant_dyna3_russ": "Goodbye to barricades means hello to tank!",
+    "radiobase_enemy_plant_dyna3_amer": "We ain't gonna stop that tank without the barricade!",
+    "radiobase_enemy_plant_dyna3_brit": "Those barricades are our only hope to stop that tank.",
+    "radiobase_enemy_plant_dyna3_germ": "I do not wish to meet a tank today. Protect the barricade.",
+
+    "radiobase_tank_destroys_main2_russ": "That is not fair!",
+    "radiobase_tank_destroys_main2_germ": "That is cheating!",
+    "radiobase_tank_destroys_main2_amer": "Hey, that ain't fair!",
+    "radiobase_tank_destroys_main2_brit": "Bloody jerries! Hardly sporting.",
+
+    "radiobase_defend_technician_rem_germ": "Keep them away from Herr Lange!",
+    "radiobase_defend_technician_rem_amer": "Make sure Franz stays alive!",
+    "radiobase_defend_technician_rem_russ": "Don't let these scum hit the German!",
+    "radiobase_defend_technician_rem_brit": "Keep the jerries off Herr Lange!",
+
+    "radiobase_transmission_ends1_amer": "Franz, it's getting hot out here, is this worth it!?",
+    "radiobase_transmission_ends1_brit": "Herr Lange, tell me this is all worth it.",
+    "radiobase_transmission_ends1_germ": "Herr Lange, the situation is getting desperate! It is worth it?",
+    "radiobase_transmission_ends1_russ": "It's getting nasty down here! Is it worth it?",
+    
+    "radiobase_transmission_ends2": "Ooh, most worth it!",
+
+    "radiobase_franz_climb_down3_amer": "Hey Franz, get your kraut ass down here, come on!",
+    "radiobase_franz_climb_down3_brit": "Down you come here, Lange. We got you covered.",
+    "radiobase_franz_climb_down3_russ": "Come down, little German! Make it fast, da?",
+    "radiobase_franz_climb_down3_germ": "Raus, raus Herr Lange. Or none of us get paid.",
+
+    "radiobase_tech_climb_down_complete": "A-ah, solid ground once again!",
+
+    "radiobase_defend_technician_complete_amer": "Yeah-yeah, great, now find a place to hide for a moment, Franz.",
+    "radiobase_defend_technician_complete_russ": "Good, now hide.",
+    "radiobase_defend_technician_complete_brit": "Welcome back to earth, Herr Lange. Find a hole to hide in.",
+    "radiobase_defend_technician_complete_germ": "Find a place to hide, Herr Lange. This is no place for radio technicians.",
+
+    "radiobase_cut_cables1_brit": "Now, any ideas on how we get out?",
+    "radiobase_cut_cables1_amer": "So how the hell we gettin' out of here?",
+    "radiobase_cut_cables1_germ": "I believe that we are outstaying our welcome.",
+    "radiobase_cut_cables1_russ": "Kurgan think it time to go.",
+
+    "radiobase_2nd_cable_germ": "That's the second, two more to go.",
+    "radiobase_2nd_cable_brit": "Second cable. Half way there.",
+    "radiobase_2nd_cable_amer": "Another cable, just two more!",
+    "radiobase_2nd_cable_russ": "Second cable cut! Two to go!",
+
+    "radiobase_cut_cables_rem_amer": "Who's on cable cutting duty, guys!?",
+    "radiobase_cut_cables_rem_russ": "Did you forget we are supposed to cut the cables?",
+    "radiobase_cut_cables_rem_germ": "I think you are forgetting something - cutting the cables.",
+    "radiobase_cut_cables_rem_brit": "Don't forget to get those cables cut!",
+
+    "radiobase_last_cable_cut_germ": "Achtung! The cables are all cut, this might get messy!",
+    "radiobase_last_cable_cut_amer": "That's the last cable! Timbeeeeeeeeeeeeeeeer!",
+    "radiobase_last_cable_cut_russ": "Last cable is cut. Tower make pancakes of little men!",
+    "radiobase_last_cable_cut_brit": "That's the last cable! Down she comes!",
+
+    "radiobase_escape_rem_russ": "That fallen tower is the way out, let's go!",
+    "radiobase_escape_rem_amer": "The mast is the way out of here! Get across it!",
+    "radiobase_escape_rem_brit": "The fallen tower is out escape path. Get along it.",
+    "radiobase_escape_rem_germ": "Meine freunde, let's hurry away, raus raus!",
+
+    "radiobase_misssion_complete_germ": "Another perfectly executed raid. Let's get you home.",
+    "radiobase_misssion_complete_russ": "Hahahahaha! Once again Kurgan is the winner! Let's take the German home!",
+    "radiobase_misssion_complete_amer": "Adios, assholes! Now, let's get this kraut home and cash in those messages!",
+    "radiobase_misssion_complete_brit": "Job done, I say. The carnage looks beautiful from here. Herr Lange, let's get you home.",
+
+    "radiobase_arc_area_russ": "This arch looks really to fall. Some dynamite should help it.",
+    "radiobase_arc_area_germ": "This old arch looks ready to collapse. A little dynamite will help it along.",
+    "radiobase_arc_area_amer": "This old arch looks weak. I reckon a little dynamite will topple it!",
+    "radiobase_arc_area_brit": "Arch is weak here. A bit of dynamite should bring it down nicely.",
+
+    "radiobase_recover_codebooks_rem1_amer": "We need that notebook!",
+    "radiobase_recover_codebooks_rem1_russ": "Get the notebook!",
+    "radiobase_recover_codebooks_rem1_brit": "Someone grab the notebook, hurry!",
+    "radiobase_recover_codebooks_rem1_germ": "Retrieve his notebook!",
+
+    "radiobase_wait_for_plane2_brit": "Stay on the defensive, lads. Should be here any minute.",
+    "radiobase_wait_for_plane2_amer": "Keep it up, they'll be here soon!",
+    "radiobase_wait_for_plane2_russ": "Ha, I don't care, can take time. Lots of fascists have to die!",
+    "radiobase_wait_for_plane2_germ": "We can hold the position until the plane arrives! Do not stop!",
+
+    "radiobase_wait_for_plane_p1_brit": "Where's that dashed plane?!",
+    "radiobase_wait_for_plane_p1_russ": "Did pilot go wrong way? Uh, I'm too busy to care.",
+    "radiobase_wait_for_plane_p1_amer": "Where the fuck are the Sabers!?",
+    "radiobase_wait_for_plane_p1_germ": "Where is the plane, please!?",
+
+    "radiobase_wait_for_plane_p2_brit": "If that plane doesn't get here soon, we are done for.",
+    "radiobase_wait_for_plane_p2_russ": "It is slow, fine day. No matter, plenty to kill here!",
+    "radiobase_wait_for_plane_p2_germ": "What is taking this pilot so long!? We cannot hold out much longer!",
+    "radiobase_wait_for_plane_p2_amer": "Where in heck's Saber Squadron!? We are sitting ducks out here!",
+
+    "radiobase_open_pod1_germ": "The green smoke over there, can you see? That will be our package!",
+    "radiobase_open_pod1_amer": "I see it, that green smoke is our airdrop, boys! C'mon!",
+    "radiobase_open_pod1_brit": "Aha! See the green smoke? That's our package.",
+    "radiobase_open_pod1_russ": "You see green smoke? Is airdrop!",
+
+    "radiobase_open_pod_rem_amer": "We need to get that crate open, now!",
+    "radiobase_open_pod_rem_brit": "Let's open up the parcel, lads. Hop to it.",
+    "radiobase_open_pod_rem_russ": "We open our package, da?",
+    "radiobase_open_pod_rem_germ": "Gentlemen, we must open the crate! Quickly!",
+
+    "radiobase_pick_up_device_rem_amer": "Hurry it up! We need to get that recording device now!",
+    "radiobase_pick_up_device_rem_brit": "There's no time to lose. Grab the recording device before the transmissions end.",
+    "radiobase_pick_up_device_rem_germ": "We cannot bring the tower here, so grab the recording device, quickly!",
+    "radiobase_pick_up_device_rem_russ": "Take recording device while we still can!",
+
+    "radiobase_connect_device2_amer": "We don't wanna piss off Mrs. White, so we get this intel, or we can't go back!",
+    "radiobase_connect_device2_russ": "Mrs. White requires intel so we collect intel. Is simple.",
+    "radiobase_connect_device2_brit": "We cannot leave this place without the intel Mrs. White wants. Understood?",
+    "radiobase_connect_device2_germ": "Without the intel, we will grossly disappoint Frau White! I dare not to think how that would turn out!",
+    
+    "radiobase_connect_device_rem_germ": "We cannot record the nazi communications until the device is connected to the tower!",
+    "radiobase_connect_device_rem_amer": "So, remember how I said we gotta the recording device to the radio tower- YOU SEE WHERE I'M GOING WITH THIS!?",
+    "radiobase_connect_device_rem_brit": "The recording device has to be connected to the radio tower, lads.",
+    "radiobase_connect_device_rem_russ": "Device records nothing until connected to tower.",
+
+    "radiobase_change_channel_rem_amer": "We aren't recording anything, change the frequency!",
+    "radiobase_change_channel_rem_germ": "We need to get that radio channel change at once!",
+    "radiobase_change_channel_rem_russ": "Recording device grows bored. Change channel, now.",
+    "radiobase_change_channel_rem_brit": "Get that blasted radio channel changed!"
 }

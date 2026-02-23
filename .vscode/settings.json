@@ -13,7 +13,8 @@
         "tweak_data",
         "Application",
         "log",
-        "inspect"
+        "inspect",
+        "DramaExt"
     ],
     "deno.enable": true
 }
