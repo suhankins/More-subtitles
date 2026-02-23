@@ -8,6 +8,7 @@ Project to add more subtitles to RAID: World War II.
 * Firestarter
 * Gold Rush
 * Enigmatic
+* Wiretap
 
 ## Plans
 

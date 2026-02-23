@@ -3,7 +3,7 @@
     name="More subtitles"
 	author="Punished Bernadetta"
 	color="191 0 73"
-    version="1.0.2"
+    version="1.1.0"
 	description="Adds a lot of missing subtitles to the game"
 >
     <hooks>
