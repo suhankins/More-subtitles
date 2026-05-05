@@ -121,7 +121,7 @@
 
     "bank_wait_for_plane3_amer": "No, they didn't. I'm guessing that bombing a bank through a skylight is not in the user manual.",
     "bank_wait_for_plane3_brit": "Afraid not. I suppose, bombing a bank through a smoking skylight is complicated.",
-    "bank_wait_for_plane3_russ": "Net, Kurgan think, perhaps bombing bank through roof not something Sabre practiced.",
+    "bank_wait_for_plane3_russ": "Nyet, Kurgan think, perhaps bombing bank through roof not something Sabre practiced.",
     "bank_wait_for_plane3_germ": "Alas, no. I would speculate this is a new mission for them.",
     
     "bank_wait_for_plane4_amer": "Yeah, I get it, no problem. We'll just... Kill nazis 'till they do it.",
@@ -769,7 +769,7 @@
     
     "radiobase_post_spawn2_russ": "They do not see us yet. We can move in shadows... or we shoot them all. I know which I prefer.",
     "radiobase_post_spawn2_amer": "Those lousy krauts don't know we are here. We can creep right in. Or go in all guns blazing.",
-    "radiobase_post_spawn2_germ": "We have the element of surprise: we can catch them off guard, or we can stay out of sight.",
+    "radiobase_post_spawn2_germ": "We have the element of surprise. We can catch them off guard, or we can stay out of sight.",
     "radiobase_post_spawn2_brit": "They haven't the foggiest idea that we are here, so we can sneak in, or we can burst in.",
 
     "radiobase_spot_guards1_amer": "Watch it, guards!",
@@ -1084,5 +1084,105 @@
     "radiobase_change_channel_rem_amer": "We aren't recording anything, change the frequency!",
     "radiobase_change_channel_rem_germ": "We need to get that radio channel change at once!",
     "radiobase_change_channel_rem_russ": "Recording device grows bored. Change channel, now.",
-    "radiobase_change_channel_rem_brit": "Get that blasted radio channel changed!"
+    "radiobase_change_channel_rem_brit": "Get that blasted radio channel changed!",
+
+    "trainyard_find_ar2_germ": "Did Frau White say which wagon precisely?",
+    "trainyard_find_ar2_russ": "She say which wagon?",
+    "trainyard_find_ar2_brit": "Did the old girl say which wagon?",
+    "trainyard_find_ar2_amer": "So she did, huh? Did she say which one?",
+
+    "trainyard_find_ar3_germ": "Alas, no. Let's search them all.",
+    "trainyard_find_ar3_amer": "No? Look, just... Get looking.",
+    "trainyard_find_ar3_russ": "Nyet, so we search.",
+    "trainyard_find_ar3_brit": "Did she- Bollocks, just get searching.",
+
+    "trainyard_find_ar_rem_amer": "Quit fucking around and search the wagons.",
+    "trainyard_find_ar_rem_brit": "Come on, lads, check these wagons!",
+    "trainyard_find_ar_rem_russ": "Found the Amber Room yet? No? Then find it. To the wagons!",
+    "trainyard_find_ar_rem_germ": "Still we have not found the Amber Room. Keep searching wagons.",
+
+    "trainyard_entering_crane_rem_germ": "There's a lever in the crane. The level will not pull itself. Hurry up.",
+    "trainyard_entering_crane_rem_amer": "Hey, get on the crane and yank on that lever, will ya?",
+    "trainyard_entering_crane_rem_brit": "Get in the crane, will you? Give that lever a good tug.",
+    "trainyard_entering_crane_rem_russ": "Get in crane! Pull lever!",
+
+    "trainyard_find_ar_complete2_russ": "If it looks like amber and smells like amber...",
+    "trainyard_find_ar_complete2_brit": "Does it look like piece of a room made of amber?",
+    "trainyard_find_ar_complete2_amer": "Big piece of room made of amber?",
+    "trainyard_find_ar_complete2_germ": "Does it look like the Amber Room?",
+
+    "trainyard_find_ar_complete3_amer": "Yeah I- I think so.",
+    "trainyard_find_ar_complete3_brit": "I would say so.",
+    "trainyard_find_ar_complete3_germ": "I think so.",
+    "trainyard_find_ar_complete3_russ": "Da...",
+
+    "trainyard_find_ar_complete4_germ": "Certainly it is ticking all of my boxes.",
+    "trainyard_find_ar_complete4_amer": "Well, you think it might be it then!?",
+    "trainyard_find_ar_complete4_russ": "Then, is amber!",
+    "trainyard_find_ar_complete4_brit": "Then bin-bloody-go.",
+
+    "trainyard_operate_crane_germ": "So, we must remove this wagon from this train.",
+    "trainyard_operate_crane_brit": "We need to get this wagon off this train.",
+    "trainyard_operate_crane_russ": "Must remove amber wagon from train.",
+    "trainyard_operate_crane_amer": "Alright, we gotta get this wagon off this train.",
+
+    "trainyard_1st_wire_connected_brit": "One cable done, chaps.",
+    "trainyard_1st_wire_connected_amer": "That's one cable connected, guys.",
+    "trainyard_1st_wire_connected_germ": "I have one of the cables connected!",
+    "trainyard_1st_wire_connected_russ": "One cable ready!",
+
+    "trainyard_first_decoupler_brit": "That's the first coupling sorted out. Next!",
+    "trainyard_first_decoupler_amer": "Got one side unhooked. Almost there.",
+    "trainyard_first_decoupler_germ": "Good, the first side is no longer connected.",
+    "trainyard_first_decoupler_russ": "One side is unhooked!",
+
+    "trainyard_second_decoupler_brit": "Well done. We're clear. Wagon's free.",
+    "trainyard_second_decoupler_amer": "There, the amber wagon is loose now.",
+    "trainyard_second_decoupler_germ": "Hah! The wagon is loose, gentlemen.",
+    "trainyard_second_decoupler_russ": "Wagon is no longer connected! All is good!",
+
+    "trainyard_get_off_the_wagon_rem_germ": "I hate repeating myself, but get off the roof!",
+    "trainyard_get_off_the_wagon_rem_brit": "We can't move the wagon with you up there. Get down!",
+    "trainyard_get_off_the_wagon_rem_russ": "Get off roof! Is Kurgan English so bad you don't understand?!",
+    "trainyard_get_off_the_wagon_rem_amer": "Hello? The wagon isn't going anywhere with you up there, pal. Get down!",
+
+    "trainyard_get_off_the_wagon_rem_self_russ": "Kurgan not supposed to be on roof!",
+    "trainyard_get_off_the_wagon_rem_self_germ": "I'm thinking I'm not supposed to be up here!",
+    "trainyard_get_off_the_wagon_rem_self_amer": "Not sure I outta be out here...",
+    "trainyard_get_off_the_wagon_rem_self_brit": "Not entirely sure I should be up here...",
+
+    "trainyard_operate_crane3_germ": "And move it to the other track.",
+    "trainyard_operate_crane3_brit": "And move it to the other track.",
+    "trainyard_operate_crane3_amer": "And move it to the other track.",
+    "trainyard_operate_crane3_russ": "And move to other track.",
+
+    "trainyard_operate_crane2_russ": "One of us must use crane.",
+    "trainyard_operate_crane2_amer": "I think someone's gotta get that crane rollin'.",
+    "trainyard_operate_crane2_germ": "I believe we must use the crane.",
+    "trainyard_operate_crane2_brit": "Hm, one of us has to operate the crane.",
+
+    "trainyard_entering_crane1_russ": "At crane. Now... Uh...",
+    "trainyard_entering_crane1_amer": "Alright I'm at the crane. Now let me see...",
+    "trainyard_entering_crane1_germ": "I'm at the crane. How do I operate it?",
+    "trainyard_entering_crane1_brit": "In the crane. Now... Oh...",
+
+    "trainyard_pulled_crane_lever1_russ": "If Kurgan pull this... it work?",
+    "trainyard_pulled_crane_lever1_germ": "Very well. Let me try this... Anything?",
+    "trainyard_pulled_crane_lever1_brit": "There. Right... That do anything?",
+    "trainyard_pulled_crane_lever1_amer": "Alright let's see what, uhh... That do anything?",
+
+    "trainyard_pulled_crane_lever3_amer": "I'll be damned!",
+    "trainyard_pulled_crane_lever3_germ": "Yes, very good!",
+    "trainyard_pulled_crane_lever3_russ": "Ha-ha!",
+    "trainyard_pulled_crane_lever3_brit": "Well, blow me.",
+
+    "trainyard_crane_rolling_b1_amer": "I think after the war I might work on the railroads. I'm kinda good at this.",
+    "trainyard_crane_rolling_b1_germ": "Perhaps some day I should return here and become a common crane driver. I'm good at it!",
+    "trainyard_crane_rolling_b1_russ": "Perhaps after war, Kurgan become crane driver! Kurgan good at it! Kurgan think.",
+    "trainyard_crane_rolling_b1_brit": "After war I might become a crane engineer. Seem to have a knack for it.",
+
+    "trainyard_crane_rolling_b2_brit": "Good at talking out a kak, dear thing.",
+    "trainyard_crane_rolling_b2_russ": "Better at talking shit, Kurgan think.",
+    "trainyard_crane_rolling_b2_amer": "Yeah, you are great at running your mouth off. They talk a lot at railyards?",
+    "trainyard_crane_rolling_b2_germ": "Meine freunde, you are better suited to talking shit."
 }
