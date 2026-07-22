@@ -360,12 +360,14 @@ function DialogManager:_play_dialog(data)
 
 			if self._show_subtitles then
 				unit:drama():play_subtitle(s, nil, crim_color, nationality_icon)
-                log(s)
+                if debug_mode then
+                    log(s)
+                end
 			end
 		end
 
 		if line_data.sound then
-			if (line_data.string_id == nil) then
+			if debug_mode and (line_data.string_id == nil) then
 				if char_voice then
 					log("Attempt to localize ".. line_data.sound .. "_" .. char_voice .. ": " .. managers.localization:text(line_data.sound .. "_" .. char_voice))
 				else
@@ -389,7 +391,9 @@ function DialogManager:_play_dialog(data)
 
 			if self._show_subtitles then
 				unit:drama():play_subtitle(s, nil, crim_color, nationality_icon)
-                log("Subtitle displayed: " .. s)
+                if debug_mode then
+                    log("Subtitle displayed: " .. s)
+                end
 			end
 		end
 
