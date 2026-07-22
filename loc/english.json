@@ -1184,5 +1184,161 @@
     "trainyard_crane_rolling_b2_brit": "Good at talking out a kak, dear thing.",
     "trainyard_crane_rolling_b2_russ": "Better at talking shit, Kurgan think.",
     "trainyard_crane_rolling_b2_amer": "Yeah, you are great at running your mouth off. They talk a lot at railyards?",
-    "trainyard_crane_rolling_b2_germ": "Meine freunde, you are better suited to talking shit."
+    "trainyard_crane_rolling_b2_germ": "Meine freunde, you are better suited to talking shit.",
+
+    "trainyard_crane_lowering1_1_germ": "Zehr gut, now just a few more tasks.",
+    "trainyard_crane_lowering1_1_amer": "Alright, just a couple more things we gotta do.",
+    "trainyard_crane_lowering1_1_brit": "Splendid. Now, a few more jobs to do.",
+    "trainyard_crane_lowering1_1_russ": "Good, but more things to do.",
+
+    "trainyard_swing_over_banter1_germ": "The Amber Room... Can you believe we are actually stealing it?",
+    "trainyard_swing_over_banter1_amer": "You guys know what the room's made from?",
+    "trainyard_swing_over_banter1_russ": "Room is pride of Russia.",
+    "trainyard_swing_over_banter1_brit": "I ever tell you where the Room came from? Fascinating story.",
+
+    "trainyard_swing_over_banter2_germ": "Tell me later. Maybe 20 years later. Agreed?",
+    "trainyard_swing_over_banter2_brit": "Oh Christ, is this the time for a history lesson?",
+    "trainyard_swing_over_banter2_russ": "Right now Kurgan not that interested.",
+    "trainyard_swing_over_banter2_amer": "You ever hear me saying that I care?",
+
+    "trainyard_swing_over_banter3_russ": "Peter the Great, tsar of all Russia...",
+    "trainyard_swing_over_banter3_germ": "Took most of Prussian sculptors to make this incredible Amber Room.",
+    "trainyard_swing_over_banter3_brit": "Prussia. 18th century. A chap called...",
+    "trainyard_swing_over_banter3_amer": "We're talking purest amber, stuff gets mined...", 
+
+    "trainyard_swing_over_banter4_brit": "Let's just focus on the job.",
+    "trainyard_swing_over_banter4_russ": "Very good. Thank you. Back to work.",
+    "trainyard_swing_over_banter4_amer": "Look, that's fascinating. Can you save it for later?",
+    "trainyard_swing_over_banter4_germ": "Ja-ja, all... Very interesting... I mean it.",
+
+    "trainyard_wall_breach1_germ": "Mein gott, that bang!",
+    "trainyard_wall_breach1_russ": "What was that?",
+    "trainyard_wall_breach1_brit": "Did you hear that?",
+    "trainyard_wall_breach1_amer": "What was that bang?",
+
+    "trainyard_wall_breach2_brit": "They've breached the walls!",
+    "trainyard_wall_breach2_russ": "They blew up the walls!",
+    "trainyard_wall_breach2_amer": "They're through the walls, gang!",
+    "trainyard_wall_breach2_germ": "They are blowing the walls!",
+
+    "trainyard_place_crane_over_ar_rem_germ": "This delay is intolerable. Lower the train hook.",
+    "trainyard_place_crane_over_ar_rem_russ": "Why wait? Lower the hook over the wagon.",
+    "trainyard_place_crane_over_ar_rem_amer": "Would ya stop playing with yourself and get that damn crane hooked down?",
+    "trainyard_place_crane_over_ar_rem_brit": "Look, just stop flailing around and just lower that sodding crane hook.",
+
+    "trainyard_close_wagon_door_rem_germ": "A polite reminder: we must close the wagon door else we risk having Amber Room spill out everywhere.",
+    "trainyard_close_wagon_door_rem_russ": "Hey, close wagon door. Not say again.",
+    "trainyard_close_wagon_door_rem_amer": "Don't forget to close that wagon door. Don't want the Amber Room spilling out everywhere.",
+    "trainyard_close_wagon_door_rem_brit": "Are you going to close that wagon door or what?",
+
+    "trainyard_close_wagon_door2_russ": "Good idea. Close it.",
+    "trainyard_close_wagon_door2_germ": "For sure, that is a good idea.",
+    "trainyard_close_wagon_door2_amer": "No just l- YES, CLOSE THE FUCKING DOOR!",
+    "trainyard_close_wagon_door2_brit": "Capital idea. Make it so.",
+
+    "trainyard_switch_ar_tracks_rem_russ": "To the crane! We have to move wagon.",
+    "trainyard_switch_ar_tracks_rem_amer": "Someone get working on that crane and lift the wagon over!",
+    "trainyard_switch_ar_tracks_rem_germ": "Hurry up! Get that wagon over to the other track. Use the crane.",
+    "trainyard_switch_ar_tracks_rem_brit": "Be awfully smashing if someone could hop over to the crane AND GET THE WAGON ON THE OTHER TRACKS!",
+
+    "trainyard_wait_for_crane_01_russ": "This belong to the Soviet people, and here I am!",
+    "trainyard_wait_for_crane_01_germ": "Did I tell you that the Amber Room was constructed in Germany? Ja, that's true!",
+    "trainyard_wait_for_crane_01_amer": "Hope these kraut cables can hold the weight...",
+    "trainyard_wait_for_crane_01_brit": "Steady now, old thing...",
+
+    "trainyard_wait_for_crane_02_brit": "That's a lot of lollies swinging in the sky there.",
+    "trainyard_wait_for_crane_02_russ": "Please don't fall, please don't fall!",
+    "trainyard_wait_for_crane_02_germ": "Please, be careful up there!",
+    "trainyard_wait_for_crane_02_amer": "Jesus it's giving me the willies seeing it up there...",
+
+    "trainyard_wait_for_crane_03_germ": "I was raised in beautiful palaces. The Amber Room deserves to be in one.",
+    "trainyard_wait_for_crane_03_russ": "History hangs above us, comrades.",
+    "trainyard_wait_for_crane_03_amer": "If that wagon falls, we're hauling what's left out on our backs.",
+    "trainyard_wait_for_crane_03_brit": "If that would've fall... Oh...",
+
+    "trainyard_lower_ar_rem_russ": "Lower wagon, Amber Room vulnerable there!",
+    "trainyard_lower_ar_rem_amer": "What, you're just gonna leave it there hanging there like my granddad's old ballsack? Get it on the tracks!",
+    "trainyard_lower_ar_rem_brit": "We need that wagon on the tracks, chaps. Use the crane.",
+    "trainyard_lower_ar_rem_germ": "Place the wagon on the tracks.",
+
+    "trainyard_lowerar_crane_jams1_amer": "What the hell was that noise?",
+    "trainyard_lowerar_crane_jams1_russ": "Da, that does not sound good...",
+    "trainyard_lowerar_crane_jams1_brit": "Wait, I say, what was that?",
+    "trainyard_lowerar_crane_jams1_germ": "Ah! Argh... What is that infernal clamour?",
+
+    "trainyard_lowerar_crane_jams2_russ": "The cables, they jammed!",
+    "trainyard_lowerar_crane_jams2_amer": "Sounds like the damn cables jammed!",
+    "trainyard_lowerar_crane_jams2_brit": "Something jammed the bloody cables!",
+    "trainyard_lowerar_crane_jams2_germ": "Eck, the cable's jammed!",
+
+    "trainyard_crane_rotated_amer": "Wagon's over the right track.",
+    "trainyard_crane_rotated_brit": "Wagon is over the right track.",
+    "trainyard_crane_rotated_germ": "The wagon is over the track.",
+    "trainyard_crane_rotated_russ": "Wagon is over track.",
+
+    "trainyard_ar_moved_germ": "Mein gott, it actually worked!",
+    "trainyard_ar_moved_brit": "Crikey Moses, haha... That did it.",
+    "trainyard_ar_moved_amer": "Great job.",
+    "trainyard_ar_moved_russ": "It worked!",
+
+    "trainyard_ar_moved2_russ": "Please, no cracks...",
+    "trainyard_ar_moved2_brit": "Just hope we didn't crack the bally thing.",
+    "trainyard_ar_moved2_amer": "Hope it's in one piece...",
+    "trainyard_ar_moved2_germ": "Pray it is undamanged.",
+
+    "trainyard_found_dyna_9na1_germ": "Well now. What have we here?",
+    "trainyard_found_dyna_9na1_russ": "Hey, look at this!",
+    "trainyard_found_dyna_9na1_amer": "Well, this is interesting.",
+    "trainyard_found_dyna_9na1_brit": "Hello, what have we here?",
+
+    "trainyard_found_dyna_rem2_germ": "Stay vigilant: look for dynamite!",
+    "trainyard_found_dyna_rem2_amer": "We ain't going anywhere until we find that dynamite!",
+    "trainyard_found_dyna_rem2_brit": "That dynamite's got to be around here somewhere.",
+    "trainyard_found_dyna_rem2_russ": "Keep looking. Must be dynamite here somewhere.",
+
+    "trainyard_plant_dynamite_amer": "I got it!",
+    "trainyard_plant_dynamite_russ": "Haha, Kurgan find it!",
+    "trainyard_plant_dynamite_brit": "Found it!",
+    "trainyard_plant_dynamite_germ": "I have dynamite.",
+
+    "trainyard_plant_dynamite_rem_russ": "You see where the wall is weak? That is good place for dynamite.",
+    "trainyard_plant_dynamite_rem_amer": "We gotta use dynamite to get through to the maintenance shed. Find where the wall is weakest.",
+    "trainyard_plant_dynamite_rem_germ": "Look for weak wall, plant dynamite. Did they not teach you such things where you come from?",
+    "trainyard_plant_dynamite_rem_brit": "We need to blast through to the maintenance shed. Get dynamite on the weakest part of the wall.",
+
+    "trainyard_dynamite_explo1_germ": "Kaboom!",
+    "trainyard_dynamite_explo1_brit": "Wallop!",
+    "trainyard_dynamite_explo1_amer": "Boom!",
+    "trainyard_dynamite_explo1_russ": "Haha!",
+
+    "trainyard_entering_shed_germ": "Hallo, is anybody home?",
+    "trainyard_entering_shed_amer": "Ah, huffing-puffin' blow your reich down! Haha, see what I did there?",
+    "trainyard_entering_shed_brit": "Ding-dong! Time to welcome Lord, Jerry!",
+    "trainyard_entering_shed_russ": "Kurgan say hello, fascists!",
+
+    "train_engineer_players_close_var1": "You are here! I wondered how long I would have to hide.",
+    "train_engineer_players_close_var2": "Thank goodness you're here, I feared you have been killed.",
+    "train_engineer_players_close_var3": "Who goes there!? It's you, thank God. I've been hiding for a long time.",
+    "train_engineer_players_close_var4": "Were you responsible for all of that gunfire?",
+    "train_engineer_players_close_var5": "It's you! I have been hiding for so long! I expected the worst.",
+
+    "trainyard_hatch_feedback1_russ": "Coal is coming out. Very good!",
+    "trainyard_hatch_feedback1_brit": "Hatch is open. Coal is pouring, splendid.",
+    "trainyard_hatch_feedback1_germ": "Ah, the coal is moving nicely.",
+    "trainyard_hatch_feedback1_amer": "Alright, coal is crapping out of the chute and into the tender. Great.",
+
+    "trainyard_hatch_feedback2_brit": "Let's just keep it that way, yes?",
+    "trainyard_hatch_feedback2_germ": "Let us keep it that way.",
+    "trainyard_hatch_feedback2_amer": "Just make sure it stays that way, huh.",
+    "trainyard_hatch_feedback2_russ": "Keep it that way.",
+
+    "trainyard_through_wall_russ": "Concentrate on wall breaches!",
+    "trainyard_through_wall_brit": "They are pouring through the wall!",
+    "trainyard_through_wall_germ": "They are getting through the breaches!",
+    "trainyard_through_wall_amer": "Watch the breaches, they are coming through!",
+    
+    "trainyard_coal_filling_a_brit": "History books won't remember this, I bet. How we saved the world waiting for coal...",
+    "trainyard_coal_filling_a_amer": "We steal your gold, we steal your coal. What else you got, krauts?",
+    "trainyard_coal_filling_a_russ": "Is coal car filled yet? No? Argh! War is hell!",
+    "trainyard_coal_filling_a_germ": "Once an Austrian cavalry officer, now wait for coal to fill a train. How the mighty have fallen..."
 }

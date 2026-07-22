@@ -234,6 +234,26 @@ local ADDED_STRING_ID_TO_SOUNDS = {
     ["radiobase_connect_device2"] = true,
     ["radiobase_connect_device_rem"] = true,
     ["radiobase_change_channel_rem"] = true,
+    ["trainyard_find_ar2"] = true,
+    ["trainyard_find_ar3"] = true,
+    ["trainyard_find_ar_rem"] = true,
+    ["trainyard_entering_crane_rem"] = true,
+    ["trainyard_find_ar_complete2"] = true,
+    ["trainyard_find_ar_complete3"] = true,
+    ["trainyard_find_ar_complete4"] = true,
+    ["trainyard_operate_crane"] = true,
+    ["trainyard_1st_wire_connected"] = true,
+    ["trainyard_first_decoupler"] = true,
+    ["trainyard_second_decoupler"] = true,
+    ["trainyard_get_off_the_wagon_rem"] = true,
+    ["trainyard_get_off_the_wagon_rem_self"] = true,
+    ["trainyard_operate_crane3"] = true,
+    ["trainyard_operate_crane2"] = true,
+    ["trainyard_entering_crane1"] = true,
+    ["trainyard_pulled_crane_lever1"] = true,
+    ["trainyard_pulled_crane_lever3"] = true,
+    ["trainyard_crane_rolling_b1"] = true,
+    ["trainyard_crane_rolling_b2"] = true,
 }
 
 local LINES_THAT_ALREADY_EXIST_BUT_HAVE_NO_STRING_ID = {
@@ -259,6 +279,14 @@ local LINES_THAT_ALREADY_EXIST_BUT_HAVE_NO_STRING_ID = {
     ["radiobase_tech_hide"] = true,
     ["radiobase_tech_escape_hint"] = true,
     ["radiobase_tech_tied_rem2"] = true,
+    ["trainyard_found_dyna_9na2"] = true,
+    ["trainyard_found_dyna3"] = true,
+    ["trainyard_plant_dynamite2"] = true,
+    ["trainyard_plant_dynamite3_brit"] = true,
+}
+
+local LINES_THAT_USE_DIFFERENT_STRING_ID = {
+    ["trainyard_lowerar_crane_shoot_rem"] = "silo_line_25"
 }
 
 local debug_mode = false
@@ -320,8 +348,11 @@ function DialogManager:_play_dialog(data)
 	if dialog.lines and #dialog.lines > 0 then
 		local line_data = dialog.lines[line]
 
-		if line_data.string_id or ((debug_mode and line_data.sound) or ADDED_STRING_ID_TO_SOUNDS[line_data.sound] or LINES_THAT_ALREADY_EXIST_BUT_HAVE_NO_STRING_ID[line_data.sound]) then
+		if line_data.string_id or ((debug_mode and line_data.sound) or ADDED_STRING_ID_TO_SOUNDS[line_data.sound] or LINES_THAT_ALREADY_EXIST_BUT_HAVE_NO_STRING_ID[line_data.sound] or LINES_THAT_USE_DIFFERENT_STRING_ID[line_data.sound]) then
 			local s = line_data.string_id or line_data.sound
+            if LINES_THAT_USE_DIFFERENT_STRING_ID[line_data.sound] ~= nil then
+                s = LINES_THAT_USE_DIFFERENT_STRING_ID[line_data.sound]
+            end
 
 			if char_voice then
 				s = s .. "_" .. char_voice
