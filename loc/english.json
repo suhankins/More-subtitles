@@ -782,12 +782,21 @@
     "radiobase_spot_guards2_russ": "Don't let them see you.",
     "radiobase_spot_guards2_germ": "Indeed. Stay out of sight.",
 
-    "__radio_op_get_to_tower_rem is not transcribed because it changes from stealth to loud": "",
+    "radio_op_get_to_tower_rem_russ": "Anyone but Kurgan remembering mast?",
+    "radio_op_get_to_tower_rem_germ": "Come. To the tower, with haste.",
+    "radio_op_get_to_tower_rem_amer": "Hey, assholes. We need to get to the mast, remember?",
+    "radio_op_get_to_tower_rem_brit": "Come on, you fellas. We need to get to the radio tower.",
+
+    "__LOUD__radio_op_get_to_tower_rem_brit": "Come on, chaps. We need to get to the radio tower. Quickly now.",
+    "__LOUD__radio_op_get_to_tower_rem_russ": "Anyone else remember radio tower?",
+    "__LOUD__radio_op_get_to_tower_rem_germ": "Come, to the tower, with haste!",
 
     "radiobase_find_franz3_brit": "Don't suppose you fellas know what Lange looks like by any chance?",
     "radiobase_find_franz3_amer": "So this Lange guy, is he tall? Short? Skinny? Fat?",
     "radiobase_find_franz3_germ": "I don't suppose Frau White provided a photograph of Lange, did she?",
     "radiobase_find_franz3_russ": "How we know Lange? Scars? Tattoo? ...Missing leg?",
+
+    "__LOUD__radiobase_find_franz3_amer": "So this Lange guy, is he tall? Short? Skinny? Fat? What are we looking for?",
 
     "radiobase_find_franz4_amer": "We ain't heading to a prison, he'll be the only guy chained and guarded.",
     "radiobase_find_franz4_russ": "We find a prisoner - that is Lange!",
@@ -799,7 +808,13 @@
     "radiobase_clear_area_amer": "Let's take out these krauts.",
     "radiobase_clear_area_germ": "We should remove some pawns from this board, yes?",
 
-    "__radiobase_clear_area2_brit changes depending on state": "",
+    "radiobase_clear_area2_russ": "No need for telling Kurgan twice.",
+    "radiobase_clear_area2_brit": "Good idea, old thing.",
+    "radiobase_clear_area2_amer": "Great idea, let's do it.",
+    "radiobase_clear_area2_germ": "The knights take the pawns, just so...",
+
+    "__LOUD__radiobase_clear_area2_germ": "The knights take the pawns with ease, ja?",
+    "__LOUD__radiobase_clear_area2_russ": "No need for telling me twice.",
 
     "radiobase_clear_area_rem5_amer": "Why do the krauts want to nail this guy so badly anyway?",
     "radiobase_clear_area_rem5_germ": "So many flies to guard one rotten apple?",
@@ -821,7 +836,16 @@
     "radiobase_area_cleared2_russ": "Ha, not one left standing. Too easy.",
     "radiobase_area_cleared2_amer": "Huh, that was easy.",
 
-    "__radiobase_area_cleared3 is not transcribed because it changes from stealth to loud": "",
+    "__LOUD__radiobase_area_cleared2_germ": "Disappointing. I expected better opposition.",
+    "__LOUD__radiobase_area_cleared2_russ": "Ha, no one left standing? Too easy.",
+
+    "radiobase_area_cleared3_brit": "Bravo... Quite relaxing.",
+    "radiobase_area_cleared3_amer": "Yeah, I think this one is gonna be easy.",
+    "radiobase_area_cleared3_russ": "Mrs. White could this herself.",
+    "radiobase_area_cleared3_germ": "Our talent for violence deserves better.",
+
+    "__LOUD__radiobase_area_cleared3_russ": "Shame, only just got started.",
+    "__LOUD__radiobase_area_cleared3_germ": "Our talents deserve better.",
 
     "radiobase_tech_tied_rem": "Free me, please!",
 
@@ -1340,5 +1364,7 @@
     "trainyard_coal_filling_a_brit": "History books won't remember this, I bet. How we saved the world waiting for coal...",
     "trainyard_coal_filling_a_amer": "We steal your gold, we steal your coal. What else you got, krauts?",
     "trainyard_coal_filling_a_russ": "Is coal car filled yet? No? Argh! War is hell!",
-    "trainyard_coal_filling_a_germ": "Once an Austrian cavalry officer, now wait for coal to fill a train. How the mighty have fallen..."
+    "trainyard_coal_filling_a_germ": "Once an Austrian cavalry officer, now wait for coal to fill a train. How the mighty have fallen...",
+
+    "__LOUD__silo_line_25_amer": "You know, it's good thing we have all this time- Oh wait, we don't, SHOOT THE FUCKING CABLE!"
 }

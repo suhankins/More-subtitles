@@ -172,13 +172,16 @@ local ADDED_STRING_ID_TO_SOUNDS = {
     ["radiobase_post_spawn2"] = true,
     ["radiobase_spot_guards1"] = true,
     ["radiobase_spot_guards2"] = true,
+    ["radio_op_get_to_tower_rem"] = true,
     ["radiobase_find_franz3"] = true,
     ["radiobase_find_franz4"] = true,
     ["radiobase_clear_area"] = true,
+    ["radiobase_clear_area2"] = true,
     ["radiobase_clear_area_rem5"] = true,
     ["radiobase_clear_area_rem6"] = true,
     ["radiobase_clear_area_rem7"] = true,
     ["radiobase_area_cleared2"] = true,
+    ["radiobase_area_cleared3"] = true,
     ["radiobase_tech_tied_rem"] = true,
     ["radiobase_free_franz4"] = true,
     ["radiobase_free_franz_rem3"] = true,
@@ -289,7 +292,21 @@ local LINES_THAT_USE_DIFFERENT_STRING_ID = {
     ["trainyard_lowerar_crane_shoot_rem"] = "silo_line_25"
 }
 
-local debug_mode = false
+local STRING_ID_DIFFERENT_IN_LOUD = {
+    ["silo_line_25_amer"] = "__LOUD__silo_line_25_amer",
+    ["radiobase_find_franz3_amer"] = "__LOUD__radiobase_find_franz3_amer",
+    ["radio_op_get_to_tower_rem_brit"] = "__LOUD__radio_op_get_to_tower_rem_brit",
+    ["radio_op_get_to_tower_rem_russ"] = "__LOUD__radio_op_get_to_tower_rem_russ",
+    ["radio_op_get_to_tower_rem_germ"] = "__LOUD__radio_op_get_to_tower_rem_germ",
+    ["radiobase_area_cleared2_germ"] = "__LOUD__radiobase_area_cleared2_germ",
+    ["radiobase_area_cleared2_russ"] = "__LOUD__radiobase_area_cleared2_russ",
+    ["radiobase_area_cleared3_russ"] = "__LOUD__radiobase_area_cleared3_russ",
+    ["radiobase_area_cleared3_germ"] = "__LOUD__radiobase_area_cleared3_germ",
+    ["radiobase_clear_area2_germ"] = "__LOUD__radiobase_clear_area2_germ",
+    ["radiobase_clear_area2_russ"] = "__LOUD__radiobase_clear_area2_russ",
+}
+
+local debug_mode = true
 
 function DialogManager:_play_dialog(data)
 	local dialog = data.dialog
@@ -359,6 +376,9 @@ function DialogManager:_play_dialog(data)
 			end
 
 			if self._show_subtitles then
+                if STRING_ID_DIFFERENT_IN_LOUD[s] ~= nil and managers.groupai:state():is_police_called() then
+                    s = STRING_ID_DIFFERENT_IN_LOUD[s]
+                end
 				unit:drama():play_subtitle(s, nil, crim_color, nationality_icon)
                 if debug_mode then
                     log(s)
