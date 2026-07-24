@@ -1,9 +1,18 @@
 import file from '../loc/english.json' with { type: 'json' };
 
-let string = 'local ADDED_STRING_ID_TO_SOUNDS = {\n';
+const ADDED_PATH = "generated/AddedStringIdToSounds.json"
+const LOUD_PATH = "generated/StringIdDifferentInLoud.json"
+
+const addedObject: { [key: string]: true } = {};
+const loudObject: { [key: string]: string } = {};
+
 const addedKeys: string[] = [];
 
 for (const key of Object.keys(file)) {
+    if (key.startsWith("__LOUD__")) {
+        loudObject[key.replace(new RegExp('^__LOUD__'), "")] = key;
+        continue;
+    }
     if (key.startsWith("__")) {
         continue;
     }
@@ -16,8 +25,10 @@ for (const key of Object.keys(file)) {
         continue;
     }
     addedKeys.push(changedKey);
-    string += `    ["${changedKey}"] = true,\n`;
+    addedObject[changedKey] = true;
 }
-string += '}';
 
-console.log(string);
+Deno.writeTextFileSync(ADDED_PATH, JSON.stringify(addedObject));
+console.log("New AddedStringIdToSounds.json successfully written");
+Deno.writeTextFileSync(LOUD_PATH, JSON.stringify(loudObject));
+console.log("New StringIdDifferentInLoud.json successfully written");

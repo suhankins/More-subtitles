@@ -1360,11 +1360,11 @@
     "trainyard_through_wall_brit": "They are pouring through the wall!",
     "trainyard_through_wall_germ": "They are getting through the breaches!",
     "trainyard_through_wall_amer": "Watch the breaches, they are coming through!",
+
+    "__LOUD__silo_line_25_amer": "You know, it's good thing we have all this time- Oh wait, we don't, SHOOT THE FUCKING CABLE!",
     
     "trainyard_coal_filling_a_brit": "History books won't remember this, I bet. How we saved the world waiting for coal...",
     "trainyard_coal_filling_a_amer": "We steal your gold, we steal your coal. What else you got, krauts?",
     "trainyard_coal_filling_a_russ": "Is coal car filled yet? No? Argh! War is hell!",
-    "trainyard_coal_filling_a_germ": "Once an Austrian cavalry officer, now wait for coal to fill a train. How the mighty have fallen...",
-
-    "__LOUD__silo_line_25_amer": "You know, it's good thing we have all this time- Oh wait, we don't, SHOOT THE FUCKING CABLE!"
+    "trainyard_coal_filling_a_germ": "Once an Austrian cavalry officer, now wait for coal to fill a train. How the mighty have fallen..."    
 }
