@@ -1215,6 +1215,8 @@
     "trainyard_crane_lowering1_1_brit": "Splendid. Now, a few more jobs to do.",
     "trainyard_crane_lowering1_1_russ": "Good, but more things to do.",
 
+    "__LOUD__trainyard_crane_lowering1_1_germ": "Good, good! Now just a few more tasks!",
+
     "trainyard_swing_over_banter1_germ": "The Amber Room... Can you believe we are actually stealing it?",
     "trainyard_swing_over_banter1_amer": "You guys know what the room's made from?",
     "trainyard_swing_over_banter1_russ": "Room is pride of Russia.",
@@ -1366,5 +1368,168 @@
     "trainyard_coal_filling_a_brit": "History books won't remember this, I bet. How we saved the world waiting for coal...",
     "trainyard_coal_filling_a_amer": "We steal your gold, we steal your coal. What else you got, krauts?",
     "trainyard_coal_filling_a_russ": "Is coal car filled yet? No? Argh! War is hell!",
-    "trainyard_coal_filling_a_germ": "Once an Austrian cavalry officer, now wait for coal to fill a train. How the mighty have fallen..."    
+    "trainyard_coal_filling_a_germ": "Once an Austrian cavalry officer, now wait for coal to fill a train. How the mighty have fallen...",
+    
+    "trainyard_coal_filling_b_brit": "Don't mind me, Jerry. Just borrowing a bit of coal, what.",
+    "trainyard_coal_filling_b_russ": "Come on, coal. Can it not move faster?",
+    "trainyard_coal_filling_b_germ": "That engineer should be hung from a meat hook for not preparing this!",
+    "trainyard_coal_filling_b_amer": "You'd think the engineer could've gotten coal tender filled, wouldn't 'cha?",
+
+    "trainyard_coal_filling_c_amer": "You'd think the engineer could've filled the coal tender, wouldn't 'cha?",
+    "trainyard_coal_filling_c_russ": "Why could engineer not do this earlier?",
+    "trainyard_coal_filling_c_germ": "Mein gott, can that coal not move any faster?",
+    "trainyard_coal_filling_c_brit": "Has that coal car filled yet? Bloody Nora.",
+
+    "trainyard_approaching_doors_9_not_active_russ": "Door locked. What's inside?",
+    "trainyard_approaching_doors_9_not_active_germ": "They've locked the gates. Hmm... Interesting...",
+    "trainyard_approaching_doors_9_not_active_amer": "It's all locked up. What do you reckon they keepin' in there?",
+    "trainyard_approaching_doors_9_not_active_brit": "Locked up tighter than a fly's chuff. They don't want us in there...",
+
+    "trainyard_guard_hatch1_amer": "Hey, keep the krauts away from the hatch!",
+    "trainyard_guard_hatch1_brit": "Don't let Jerry muck around with that hatch!",
+    "trainyard_guard_hatch1_russ": "Keep fascists away from hatch!",
+    "trainyard_guard_hatch1_germ": "Don't let them get anywhere near the hatch.",
+
+    "trainyard_guard_hatch2_brit": "Remember chaps: keep the rotters off the hatch!",
+    "trainyard_guard_hatch2_russ": "Remember: keep them away from hatch!",
+    "trainyard_guard_hatch2_germ": "Friendly reminder: do not let them interfere with the hatch!",
+    "trainyard_guard_hatch2_amer": "I ain't volunteering for guard duty.",
+
+    "trainyard_chocks_removed_amer": "Chocks are clear.",
+    "trainyard_chocks_removed_germ": "That's it for the chocks.",
+    "trainyard_chocks_removed_russ": "Chocks are gone!",
+    "trainyard_chocks_removed_brit": "Chocks away, biggles!",
+
+    "trainyard_move_loco_rem_brit": "For crying out loud, will one of you give the driver the signal!?",
+    "trainyard_move_loco_rem_russ": "Just knock on locomotive door!",
+    "trainyard_move_loco_rem_germ": "Command the engineer to move out. Knock on his door.",
+    "trainyard_move_loco_rem_amer": "Just bang your fist on engineer's door already, for Christ's sakes!",
+
+    "train_engineer_move_train_var1": "Time to get the train moving.",
+    "train_engineer_move_train_var2": "Shall we get this train moving?",
+    "train_engineer_move_train_var3": "Let us get the train moving.",
+    "train_engineer_move_train_var4": "It is time to get this train moving, ja?",
+    "train_engineer_move_train_var5": "Time to move the train.",
+
+    "trainyard_signal_driver1_russ": "Make train move!",
+    "trainyard_signal_driver1_brit": "All is clear. Choo-choo, ja?",
+    "trainyard_signal_driver1_amer": "Power her up, buddy!",
+    "trainyard_signal_driver1_germ": "Proceed out to the yard!",
+
+    "trainyard_signal_driver2_brit": "It's moving. Bloody marvelous.",
+    "trainyard_signal_driver2_amer": "Just like the Rock Island Line.",
+    "trainyard_signal_driver2_russ": "A-a-ha, it is rolling!",
+    "trainyard_signal_driver2_germ": "It is moving! A great sight...",
+
+    "train_engineer_switch_tracks_var1": "The only way I can back up the locomotive, is if you switch the rail tracks, so get to it!",
+    "train_engineer_switch_tracks_var2": "You must switch the rail tracks before I can back up. Look for a lever.",
+    "train_engineer_switch_tracks_var3": "For me to back up the locomotive, you must switch the rail tracks. Pull the lever!",
+    "train_engineer_switch_tracks_var4": "The Amber Room is on another set of tracks. Switch the rails and I can back up to it.",
+    "train_engineer_switch_tracks_var5": "If you could switch the tracks, I can back the locomotive to the Amber Room wagon.",
+    
+    "trainyard_switch_tracks_rem_brit": "Likely a lever close to the track. That will be the switch, use it.",
+    "trainyard_switch_tracks_rem_amer": "You know how to switch a track? Just pull the lever.",
+    "trainyard_switch_tracks_rem_russ": "Switching tracks is easy. Easy as pulling a lever.",
+    "trainyard_switch_tracks_rem_germ": "Just pull the lever to switch the tracks, schnell!",
+
+    "trainyard_back_loco_rem_russ": "Time is ticking. Tell engineer to reverse.",
+    "trainyard_back_loco_rem_germ": "Why the eternal delay? Give the engineer the order to reverse.",
+    "trainyard_back_loco_rem_amer": "Hey, clock's running, pal. Tell the driver to back up!",
+    "trainyard_back_loco_rem_brit": "We are running out of time! Tell the engineer to back up!",
+
+    "trainyard_wait_for_backing_up_almost_amer": "Thank fuck for that, looks like he's almost there.",
+    "trainyard_wait_for_backing_up_almost_brit": "Almost there, thank goodness!",
+    "trainyard_wait_for_backing_up_almost_russ": "Train is close. You see?",
+    "trainyard_wait_for_backing_up_almost_germ": "It's okay, look: the train is nearly here!",
+
+    "trainyard_surprise_bomb_att1_germ": "Scheisse!",
+    "trainyard_surprise_bomb_att1_russ": "Wow!",
+    "trainyard_surprise_bomb_att1_brit": "Bloody hell!",
+    "trainyard_surprise_bomb_att1_amer": "What the-",
+
+    "trainyard_surprise_bomb_att2_amer": "They sent god damn bombers!",
+    "trainyard_surprise_bomb_att2_russ": "Bombers!",
+    "trainyard_surprise_bomb_att2_germ": "It is bombers!",
+    "trainyard_surprise_bomb_att2_brit": "Bombers!",
+
+    "trainyard_surprise_bomb_att4_russ": "Hit them! Hurt them! Raaaaah!",
+    "trainyard_surprise_bomb_att4_amer": "Take them out!",
+    "trainyard_surprise_bomb_att4_brit": "Let's take them down, chaps!",
+    "trainyard_surprise_bomb_att4_germ": "Damn them! Unleash hell!",
+
+    "trainyard_air_raid_rem_brit": "Those bombers will be here any moment!",
+    "trainyard_air_raid_rem_russ": "The bombers are coming!",
+    "trainyard_air_raid_rem_amer": "Them bombers are gonna be on us any second!",
+    "trainyard_air_raid_rem_germ": "Those bombers are close.",
+
+    "trainyard_air_raid_rem2_germ": "Get to the AA gun!",
+    "trainyard_air_raid_rem2_amer": "So get to the AA gun!",
+    "trainyard_air_raid_rem2_brit": "Get on the damn AA gun!",
+    "trainyard_air_raid_rem2_russ": "To the AA gun!",
+
+    "trainyard_downtime_between_attacks1_russ": "They will be back, I'm sure.",
+    "trainyard_downtime_between_attacks1_amer": "We ain't done here, not yet.",
+    "trainyard_downtime_between_attacks1_germ": "We are not out of the woods yet, gentlemen. They will return!",
+    "trainyard_downtime_between_attacks1_brit": "Don't celebrate just yet. They'll be back.",
+
+    "trainyard_downtime_between_attacks2_germ": "Be prepared to teach those new planes a lesson too!",
+    "trainyard_downtime_between_attacks2_russ": "Now we show these planes what happens when they fight us! Get ready!",
+    "trainyard_downtime_between_attacks2_brit": "They know we aren't to be trifled with, get ready chaps.",
+    "trainyard_downtime_between_attacks2_amer": "Get yourselves ready: they know what they're messing with now!",
+
+    "trainyard_first_plane_down_amer": "Score 1 for the good guys!",
+    "trainyard_first_plane_down_brit": "First blood is mine, chaps!",
+    "trainyard_first_plane_down_russ": "First plane is Kurgan's!",
+    "trainyard_first_plane_down_germ": "Ha-ha, I will start as we mean to go on!",
+
+    "trainyard_bomber_destroyed1_amer": "Boom! Got him!",
+    "trainyard_bomber_destroyed1_brit": "Have some of that, Jerry!",
+    "trainyard_bomber_destroyed1_germ": "I got him! I got him!",
+    "trainyard_bomber_destroyed1_russ": "Aha-ha! Kurgan got him!",
+
+    "trainyard_bomber_destroyed2_russ": "Good, keep shooting!",
+    "trainyard_bomber_destroyed2_brit": "Very good, keep shooting!",
+    "trainyard_bomber_destroyed2_germ": "Very good! Don't stop!",
+    "trainyard_bomber_destroyed2_amer": "Great! Don't get cocky.",
+
+    "trainyard_stuka_destro_var1_amer": "Hey, I got one!",
+    "trainyard_stuka_destro_var1_germ": "Right on target.",
+    "trainyard_stuka_destro_var1_brit": "Take that, Jerry.",
+    "trainyard_stuka_destro_var1_russ": "Ha-ha-ha, Kurgan blew enough!",
+
+    "trainyard_stuka_destro_var2_russ": "Kurgan got him!",
+    "trainyard_stuka_destro_var2_brit": "Got one!",
+    "trainyard_stuka_destro_var2_amer": "Hell yeah, you see that crate come apart?",
+    "trainyard_stuka_destro_var2_germ": "He will not be giving us trouble again.",
+
+    "trainyard_stuka_destro_var3_amer": "Red Baron my ass!",
+    "trainyard_stuka_destro_var3_brit": "Ha, blew that bugger up!",
+    "trainyard_stuka_destro_var3_germ": "Blasted him out of the sky! Ha, kaput!",
+    "trainyard_stuka_destro_var3_russ": "Boom, aha-ha-ha, ha-ha!",
+
+    "train_engineer_enter_train_var1": "Now connect the Amber Room wagon. Then we can leave.",
+    "train_engineer_enter_train_var2": "Hook up the Amber Room wagon, then get in the train so we can get out of here.",
+    "train_engineer_enter_train_var3": "Once you have connected the Amber Room wagon, we can leave!",
+    "train_engineer_enter_train_var4": "Connect the Amber Room wagon. Once that is done, we can escape.",
+    "train_engineer_enter_train_var5": "Connect me to the Amber Room wagon, and we shall be away!",
+
+    "trainyard_escape_rem_russ": "We are finished, we go.",
+    "trainyard_escape_rem_amer": "It's time to go, c'mon!",
+    "trainyard_escape_rem_brit": "Come on, last one on the train is a giant whimsy.",
+    "trainyard_escape_rem_germ": "Come on, our work is done. Time to leave.",
+
+    "trainyard_mission_complete_ar_destroyed1_amer": "We did it.",
+    "trainyard_mission_complete_ar_destroyed1_brit": "We did it.",
+    "trainyard_mission_complete_ar_destroyed1_russ": "Success.",
+    "trainyard_mission_complete_ar_destroyed1_germ": "We are done.",
+
+    "trainyard_secret_room1_amer": "Holy shit!",
+    "trainyard_secret_room1_russ": "Hah, look at this!",
+    "trainyard_secret_room1_brit": "I don't know what have we here...",
+    "trainyard_secret_room1_germ": "Well, isn't this a pleasant thing to find?",
+
+    "trainyard_secret_room2_russ": "Good, grab as much as you can.",
+    "trainyard_secret_room2_germ": "Ah... Start taking it, hurry!",
+    "trainyard_secret_room2_amer": "Quit yapping, grab what you can!",
+    "trainyard_secret_room2_brit": "Come to daddy!"
 }

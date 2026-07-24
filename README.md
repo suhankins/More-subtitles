@@ -9,6 +9,7 @@ Project to add more subtitles to RAID: World War II.
 * Gold Rush
 * Enigmatic
 * Wiretap
+* Amber Train
 
 ## Plans
 
@@ -23,6 +24,8 @@ Add subtitles for
 ### parser.ts
 
 [Deno](https://deno.com/) script that reads `loc/english.json` and extracts String IDs to be pasted into `dialogmanager.lua`, so game knows which new lines we added.
+
+**TODO:** Remove this script and move all the functionality to `dialogmanager.lua`
 
 ### showcaser.ts
 
