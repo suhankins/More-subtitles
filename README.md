@@ -21,12 +21,6 @@ Add subtitles for
 
 ## Dev tools
 
-### parser.ts
-
-[Deno](https://deno.com/) script that reads `loc/english.json` and extracts String IDs to be pasted into `dialogmanager.lua`, so game knows which new lines we added.
-
-**TODO:** Remove this script and move all the functionality to `dialogmanager.lua`
-
 ### showcaser.ts
 
 [Deno](https://deno.com/) script that prints a copy of `loc/english.json`, where every string starts with `[NEW]`. Used for showcasing which lines are new.

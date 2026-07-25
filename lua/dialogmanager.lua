@@ -31,13 +31,45 @@ local LINES_THAT_USE_DIFFERENT_STRING_ID = {
     ["trainyard_lowerar_crane_shoot_rem"] = "silo_line_25"
 }
 
-if not io.file_is_readable(ModPath .. "generated/AddedStringIdToSounds.json") then
-    BLT:Log(LogLevel.ERROR, "[More subtitles] Generated files are missing! Make sure to run parser.ts!")
-    return
+local function startswith(text, start)
+    return text:sub(1, #start) == start
 end
 
-local ADDED_STRING_ID_TO_SOUNDS = io.load_as_json(ModPath .. "generated/AddedStringIdToSounds.json")
-local STRING_ID_DIFFERENT_IN_LOUD = io.load_as_json(ModPath .. "generated/StringIdDifferentInLoud.json")
+local function parse_localization_file()
+	local DEFAULT_LANGUAGE = "english"
+	local lang_key = Steam:current_language()
+	local localization_path = ModPath .. "loc/" .. lang_key .. ".json"
+
+	if not io.file_is_readable(localization_path) then
+		localization_path = ModPath .. "loc/" .. DEFAULT_LANGUAGE .. ".json"
+	end
+
+	local localization_json = io.load_as_json(localization_path)
+
+	local added_string_id = {}
+	local string_id_in_loud = {}
+
+	for key in pairs(localization_json) do
+		if startswith(key, "__LOUD__") then
+			string_id_in_loud[key:gsub("^__LOUD__", "")] = key
+			goto continue
+		end
+		if startswith(key, "__") then
+			goto continue
+		end
+		local base_key = key
+			:gsub("_brit$", "")
+  			:gsub("_russ$", "")
+  			:gsub("_amer$", "")
+  			:gsub("_germ$", "")
+		added_string_id[base_key] = true
+	    ::continue::
+	end
+
+	return added_string_id, string_id_in_loud
+end
+
+local ADDED_STRING_ID_TO_SOUNDS, STRING_ID_DIFFERENT_IN_LOUD = parse_localization_file()
 
 local debug_mode = true
 
