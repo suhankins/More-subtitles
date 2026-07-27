@@ -1531,5 +1531,102 @@
     "trainyard_secret_room2_russ": "Good, grab as much as you can.",
     "trainyard_secret_room2_germ": "Ah... Start taking it, hurry!",
     "trainyard_secret_room2_amer": "Quit yapping, grab what you can!",
-    "trainyard_secret_room2_brit": "Come to daddy!"
+    "trainyard_secret_room2_brit": "Come to daddy!",
+
+    "train_op_spotted_var1_brit": "Bugger, they've seen us! Keep the jerries back while we take out the AA guns on those ruddy trains.",
+    "train_op_spotted_var1_germ": "Scheisse, they've seen us, which will make this harder! Take out the AA guns, but keep the schweins back!",
+    "train_op_spotted_var1_russ": "Gah, fascists attack! We must defeat them and destroy AA guns on trains!",
+    "train_op_spotted_var1_amer": "Oh shit, they know we're here! We gotta take out those AA guns and keep those shitbirds back!",
+
+    "train_op_spawned_rem1_amer": "Looks like we're here before the train carrying the AA guns. How's that for a struck of luck?",
+    "train_op_spawned_rem1_russ": "Train with AA guns not here? Then we here first, yes? Good.",
+    "train_op_spawned_rem1_brit": "If I didn't know better, I'd say we've arrived before the train carrying the AA guns.",
+    "train_op_spawned_rem1_germ": "It appears we've turned up before the train with the AA guns. Excellent!",
+
+    "train_op_spawned_rem2_russ": "We can prepare a very, very warm welcome!",
+    "train_op_spawned_rem2_brit": "Let's use this time to prepare. Come on chaps.",
+    "train_op_spawned_rem2_germ": "We should use this time to prepare the most deadly welcome.",
+    "train_op_spawned_rem2_amer": "Early bird catches the worm. Let's get ready.",
+
+    "train_op_spawn_recap1_brit": "Now, everyone clear on the plan?",
+
+    "train_op_train_approaching2_brit": "Nazis know how to run their trains.",
+    "train_op_train_approaching2_russ": "The fascist have good clocks. *laughs* Make up for tiny cocks.",
+    "train_op_train_approaching2_germ": "Hmm, it is almost a pitty to reward their punctuality like this.",
+    "train_op_train_approaching2_amer": "You ever hear of a late nazi train? No.",
+
+    "train_op_train_drivethrough1_brit": "Hey, it's not stopping!",
+    "train_op_train_drivethrough1_germ": "Was ist das? It isn't stopping!",
+    "train_op_train_drivethrough1_amer": "It ain't stopping!",
+    "train_op_train_drivethrough1_russ": "Huh? I think it will not stop.",
+
+    "train_op_train_drivethrough2_amer": "It's hauling AA guns and a fuck ton of ammo.",
+    "train_op_train_drivethrough2_brit": "Look AA guns. And shells near them.",
+    "train_op_train_drivethrough2_russ": "Bozhe moi, AA guns. Enough shells for big time party.",
+    "train_op_train_drivethrough2_germ": "Scheisse, you see? AA guns and more shells than the seaside!",
+
+    "train_op_another_wagon_respo_var1_germ": "Focus on the shells!",
+    "train_op_another_wagon_respo_var1_brit": "Aim for the shells!",
+    "train_op_another_wagon_respo_var1_amer": "Aim for the shells!",
+    "train_op_another_wagon_respo_var1_russ": "Shoot shells!",
+
+    "train_op_another_wagon_respo_var2_amer": "Shoot them shells!",
+    "train_op_another_wagon_respo_var2_germ": "Shoot the shells!",
+    "train_op_another_wagon_respo_var2_brit": "Shoot the shells!",
+    "train_op_another_wagon_respo_var2_russ": "The shells, shoot them!",
+
+    "train_op_another_wagon_var1_russ": "Wagon comes!",
+    "train_op_another_wagon_var1_germ": "Another wagon arrives!",
+    "train_op_another_wagon_var1_brit": "Another wagon!",
+    "train_op_another_wagon_var1_amer": "Another wagon.",
+
+    "train_op_another_wagon_var2_russ": "Here come wagon!",
+    "train_op_another_wagon_var2_brit": "Here's another wagon!",
+    "train_op_another_wagon_var2_germ": "Here comes the wagon!",
+    "train_op_another_wagon_var2_amer": "Here comes a wagon.",
+
+    "train_op_first_gun_destro_russ": "Ho, exploded metal is second favorite smell!",
+    "train_op_first_gun_destro_germ": "Ja-ha-ha, nothing like a good explosion to warm your heart!",
+    "train_op_first_gun_destro_amer": "Holy shit, you seen that gun go up?",
+    "train_op_first_gun_destro_brit": "Bugger me! It worked!",
+
+    "train_op_another_destroyed_var1_russ": "Gun destroyed!",
+    "train_op_another_destroyed_var1_amer": "You ain't gonna be using that one!",
+    "train_op_another_destroyed_var1_brit": "Scrap metal for you, Jerry.",
+    "train_op_another_destroyed_var1_germ": "Another gun destroyed! Wunderbar!",
+
+    "train_op_another_destroyed_var2_russ": "Hey fascist! You need scrap metal? You have it!",
+    "train_op_another_destroyed_var2_germ": "Gun... silenced!",
+    "train_op_another_destroyed_var2_brit": "That won't be shooting our boys down!",
+    "train_op_another_destroyed_var2_amer": "Hey, kraut? You order 16 thousand pounds of scrap?",
+
+    "train_op_another_destroyed_var3_russ": "That one will not see action again!",
+    "train_op_another_destroyed_var3_amer": "That one's scrap!",
+    "train_op_another_destroyed_var3_germ": "I've dealt with another gun! Oh, I am so good!",
+    "train_op_another_destroyed_var3_brit": "Seven and a half tons of useless fuck for you, Jerry.",
+
+    "train_op_missed_last_gun_brit": "Aw, shite. It got away.",
+    "train_op_missed_last_gun_russ": "Bozhe moi, it escaped!",
+    "train_op_missed_last_gun_germ": "Scheisse, slipped through our fingers!",
+    "train_op_missed_last_gun_amer": "God dammit, it got away.",
+
+    "trainyard_mission_complete_russ": "Success! Great success!",
+    "trainyard_mission_complete_germ": "Wunderbar, we are successful, meine freunde.",
+    "trainyard_mission_complete_amer": "Ha, we did it!",
+    "trainyard_mission_complete_brit": "We did it!",
+
+    "train_op_8_guns_destroyed1_russ": "I think we got... 8 guns?",
+    "train_op_8_guns_destroyed1_amer": "Hey, was that 8 guns?",
+    "train_op_8_guns_destroyed1_germ": "Unless I miscount, we destroyed 8 guns?",
+    "train_op_8_guns_destroyed1_brit": "I think... Was that the 8th gun?",
+
+    "train_op_8_guns_destroyed2_brit": "Think you're right.",
+    "train_op_8_guns_destroyed2_russ": "Da.",
+    "train_op_8_guns_destroyed2_germ": "Agree!",
+    "train_op_8_guns_destroyed2_amer": "Yeah, I think so.",
+
+    "train_op_gun_wagon_spotted_rem_brit": "Shoot the ammo crate, you chaps.",
+    "train_op_gun_wagon_spotted_rem_germ": "The trains! Shoot the ammo crate, quickly!",
+    "train_op_gun_wagon_spotted_rem_amer": "Pour it on the ammo crates, damn it!",
+    "train_op_gun_wagon_spotted_rem_russ": "Shoot crate! Shoot create! It cannot shoot back."
 }

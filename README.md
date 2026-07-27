@@ -5,11 +5,12 @@ Project to add more subtitles to RAID: World War II.
 ## Currently finished
 
 * Strongpoint
-* Firestarter
+    * Firestarter
 * Gold Rush
-* Enigmatic
+    * Enigmatic
 * Wiretap
 * Amber Train
+    * Rolling stock
 
 ## Plans
 
