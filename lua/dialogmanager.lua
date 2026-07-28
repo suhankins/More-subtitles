@@ -25,10 +25,14 @@ local LINES_THAT_ALREADY_EXIST_BUT_HAVE_NO_STRING_ID = {
     ["trainyard_found_dyna3"] = true,
     ["trainyard_plant_dynamite2"] = true,
     ["trainyard_plant_dynamite3_brit"] = true,
+	["bank_approaching_vault3"] = true,
 }
 
 local LINES_THAT_USE_DIFFERENT_STRING_ID = {
-    ["trainyard_lowerar_crane_shoot_rem"] = "silo_line_25"
+    ["trainyard_lowerar_crane_shoot_rem"] = "silo_line_25",
+	["castle_opn_all_obj_done1"] = "silo_line_31",
+	["castle_opn_killed_enough_enemies2"] = "silo_line_35",
+	["bridge_op_open_gate2"] = "silo_line_07",
 }
 
 local function startswith(text, start)
@@ -71,7 +75,7 @@ end
 
 local ADDED_STRING_ID_TO_SOUNDS, STRING_ID_DIFFERENT_IN_LOUD = parse_localization_file()
 
-local debug_mode = true
+local debug_mode = false
 
 function DialogManager:_play_dialog(data)
 	local dialog = data.dialog

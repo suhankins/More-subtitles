@@ -44,11 +44,6 @@
     "bank_approaching_vault2_russ": "Bombs would not make dent, Kurgan think.",
     "bank_approaching_vault2_amer": "I doubt even Sabre Squadron's bombs could crack that.",
 
-    "bank_approaching_vault3_amer": "So, how we thinkin' we get into it?",
-    "bank_approaching_vault3_brit": "So, how do we get into it?",
-    "bank_approaching_vault3_germ": "So, how are we supposed to get in?",
-    "bank_approaching_vault3_russ": "So, how we get in?",
-
     "bank_breach_vault_idea1_russ": "Door not option. So we go through ceiling.",
     "bank_breach_vault_idea1_germ": "That door is impregnable. No matter. We go through the ceiling.",
     "bank_breach_vault_idea1_amer": "Hey, fuck the door. I'm thinking the ceiling on the vault isn't so strong, c'mon.",
@@ -722,11 +717,6 @@
     "castle_opn_killed_enough_enemies1_russ": "So many dead nazis, I love it!",
     "castle_opn_killed_enough_enemies1_germ": "I believe that we've spilled the required amount of nazi blood.",
 
-    "castle_opn_killed_enough_enemies2_brit": "Shame. I had a smashing time.",
-    "castle_opn_killed_enough_enemies2_amer": "*sigh* Finding my killing groove, you know what I mean?",
-    "castle_opn_killed_enough_enemies2_germ": "We had our fill already!?",
-    "castle_opn_killed_enough_enemies2_russ": "Kurgan could kill nazis all day!",
-
     "castle_opn_raising_raid_flag": "Hey, get up there! *hums US anthem* Nice!",
     "castle_opn_raising_raid_flag_brit": "Up she goes! *hums British anthem*",
     "castle_opn_raising_raid_flag_russ": "Go!.. Up!.. YEAH!",
@@ -736,11 +726,6 @@
     "castle_opn_raid_flag_raised_russ": "Now I'm king of castle, da?",
     "castle_opn_raid_flag_raised_brit": "A beautiful sight, gentlemen.",
     "castle_opn_raid_flag_raised_amer": "If it weren't for a smell of burnt flesh, this would be a hell of a moment, gang.",
-
-    "castle_opn_all_obj_done1_russ": "Time to go, it too hot here.",
-    "castle_opn_all_obj_done1_brit": "Let's get out of here before it's too hot for comfort.",
-    "castle_opn_all_obj_done1_germ": "Come, we must go! My boots are starting to melt!",
-    "castle_opn_all_obj_done1_amer": "Guess it's time to haul ass before this whole place goes up.",
 
     "castle_opn_all_obj_done3_russ": "She did. I'm sure they're coming.",
     "castle_opn_all_obj_done3_brit": "She did. They'll be here.",
@@ -1379,11 +1364,6 @@
     "trainyard_coal_filling_c_russ": "Why could engineer not do this earlier?",
     "trainyard_coal_filling_c_germ": "Mein gott, can that coal not move any faster?",
     "trainyard_coal_filling_c_brit": "Has that coal car filled yet? Bloody Nora.",
-
-    "trainyard_approaching_doors_9_not_active_russ": "Door locked. What's inside?",
-    "trainyard_approaching_doors_9_not_active_germ": "They've locked the gates. Hmm... Interesting...",
-    "trainyard_approaching_doors_9_not_active_amer": "It's all locked up. What do you reckon they keepin' in there?",
-    "trainyard_approaching_doors_9_not_active_brit": "Locked up tighter than a fly's chuff. They don't want us in there...",
 
     "trainyard_guard_hatch1_amer": "Hey, keep the krauts away from the hatch!",
     "trainyard_guard_hatch1_brit": "Don't let Jerry muck around with that hatch!",
