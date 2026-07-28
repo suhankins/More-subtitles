@@ -9,6 +9,7 @@ Project to add more subtitles to RAID: World War II.
 * Gold Rush
     * Enigmatic
 * Wiretap
+    * London Calling
 * Amber Train
     * Rolling stock
 

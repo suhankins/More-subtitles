@@ -1608,5 +1608,105 @@
     "train_op_gun_wagon_spotted_rem_brit": "Shoot the ammo crate, you chaps.",
     "train_op_gun_wagon_spotted_rem_germ": "The trains! Shoot the ammo crate, quickly!",
     "train_op_gun_wagon_spotted_rem_amer": "Pour it on the ammo crates, damn it!",
-    "train_op_gun_wagon_spotted_rem_russ": "Shoot crate! Shoot create! It cannot shoot back."
+    "train_op_gun_wagon_spotted_rem_russ": "Shoot crate! Shoot create! It cannot shoot back.",
+
+    "__LOUD__radio_op_prepare_trans1_germ": "Now we set the devices at the base. Quickly!",
+    "__LOUD__radio_op_prepare_trans1_brit": "See the base of the tower? That's where we have to set this all up.",
+
+    "radio_op_prepare_trans2_brit": "I hope getting all this stuff was worth it.",
+    "radio_op_prepare_trans2_germ": "Then let's see if the juice has been worth the squeeze, ja?",
+    "radio_op_prepare_trans2_russ": "Da, da, now... Hope all was worth it.",
+    "radio_op_prepare_trans2_amer": "Getting all this crap had better be worth all this trouble...",
+
+    "__LOUD__radio_op_prepare_trans2_germ": "I just hope the juice has been worth the squeeze.",
+    "__LOUD__radio_op_prepare_trans2_brit": "I bally well hope getting all this stuff was worth the effort.",
+
+    "radio_op_prepare_trans_rem_amer": "We can't hold this crap around all day. Get it to the mast, now.",
+    "radio_op_prepare_trans_rem_brit": "Are you forgetting? We need all this equipment by the tower.",
+    "radio_op_prepare_trans_rem_russ": "Get equipment to tower, da? I'm not here to sightsee.",
+    "radio_op_prepare_trans_rem_germ": "Much as I enjoy the view, this equipment will not place itself.",
+    
+    "__LOUD__radio_op_prepare_trans_rem_germ": "Schnell, meine Herren! This equipment will not place itself.",
+    "__LOUD__radio_op_prepare_trans_rem_russ": "Get equipment to the tower, I'm not here to sightsee.",
+    "__LOUD__radio_op_prepare_trans_rem_brit": "What's the hold up, chaps? We need all our gear at the tower.",
+
+    "radio_op_gone_loud_no_setup_var1_brit": "We need to get the radio tower and get our gear set up. Hop to it!",
+    "radio_op_gone_loud_no_setup_var1_amer": "Come on, we gotta fight our way to the radio tower and get all this shit set up!",
+    "radio_op_gone_loud_no_setup_var1_russ": "Radio tower is where we go to make things happen, da?",
+    "radio_op_gone_loud_no_setup_var1_germ": "Come, now! We must get to the radio tower and set up our equipment!",
+
+    "radio_op_gone_loud_no_setup_var2_germ": "Let us get to the radio tower, quickly! And get everything ready for the transmission!",
+    "radio_op_gone_loud_no_setup_var2_amer": "Let's make this quick! We gotta go get everything set up at the radio tower!",
+    "radio_op_gone_loud_no_setup_var2_brit": "Our gear has to be set up and connected at the radio tower. So we'll have a fight on our hands, lads.",
+    "radio_op_gone_loud_no_setup_var2_russ": "Let us see how many fascists we kill from here to radio tower.",
+
+    "radio_op_activate_power_gen2_germ": "We must locate it and activate it.",
+    "radio_op_activate_power_gen2_russ": "Generator will be close. We find it, we use it.",
+    "radio_op_activate_power_gen2_brit": "Find it and get it on. Quick as you can.",
+    "radio_op_activate_power_gen2_amer": "We gotta find it and get it running.",
+
+    "radio_op_activate_power_gen_rem_germ": "You are wasting my time! Start the generator!",
+    "radio_op_activate_power_gen_rem_russ": "Okay, we get generator going, da?",
+    "radio_op_activate_power_gen_rem_amer": "Hey, quit fucking around and get that generator started.",
+    "radio_op_activate_power_gen_rem_brit": "Get the generator running. Chop-chop.",
+
+    "radio_op_start_trans_rem_amer": "Hey, Mrs. White is waiting!",
+    "radio_op_start_trans_rem_brit": "You fellas, London is just getting dead air.",
+    "radio_op_start_trans_rem_russ": "Hey, radio waiting!",
+    "radio_op_start_trans_rem_germ": "You wish to delay us further?",
+
+    "radio_op_start_trans_rem2_russ": "We send them signal, da?",
+    "radio_op_start_trans_rem2_brit": "Someone get on the radio!",
+    "radio_op_start_trans_rem2_germ": "Send them signal! Schnell!",
+    "radio_op_start_trans_rem2_amer": "Get on the damn radio!",
+
+    "radio_op_keep_trans_running_rem_brit": "Magnificent! Keep the jerries off!",
+    "radio_op_keep_trans_running_rem_amer": "Doing great. Keep those krauts off.",
+    "radio_op_keep_trans_running_rem_germ": "Keep it up! They are no match for us!",
+    "radio_op_keep_trans_running_rem_russ": "More time needed, da? Fuel and fuse box - I'm on both!",
+
+    "radio_op_refuel_generator_rem_germ": "I admire your optimism, but now you refuel the generator, yes?",
+    "radio_op_refuel_generator_rem_brit": "Come on, get a little more petrol in the generator over there.",
+    "radio_op_refuel_generator_rem_russ": "Get fuel in generator. Does not work on air, da?",
+    "radio_op_refuel_generator_rem_amer": "The generator needs gas. Get to it!",
+
+    "radio_op_contact_mrs_white_escape_rem_amer": "Didn't plan on dying today, ladies, so can we uhhh... CAN WE HURRY UP AND CALL MRS. WHITE!?",
+    "radio_op_contact_mrs_white_escape_rem_brit": "We are sitting ducks here! Contact Mrs. White now!",
+    "radio_op_contact_mrs_white_escape_rem_russ": "I can do this all day, but maybe we can call Mrs. White so you can rest.",
+    "radio_op_contact_mrs_white_escape_rem_germ": "Now is not the time to play hard-to-get. Contact Frau White, schnell!",
+
+    "radio_op_drop_flare_rem_brit": "Saber Squadron aren't mind readers, lads. We have to put down a flare for them.",
+    "radio_op_drop_flare_rem_amer": "Guys, if we don't get a flare down, that bomber ain't gonna help us. Come on!",
+    "radio_op_drop_flare_rem_germ": "We need to place a flare to show our bomber what to destroy! Let us not delay!",
+    "radio_op_drop_flare_rem_russ": "Bomber need to see flare or it not send death from above. Place flare.",
+
+    "radio_op_wait_for_sabre_germ": "Looks like we will have to take care of this leaving party until Saber Squadron arrives.",
+    "radio_op_wait_for_sabre_brit": "Now we just keep our noses clean and wait for Saber Squadron.",
+    "radio_op_wait_for_sabre_amer": "So now we wait for Saber Squadron? Good thing we got plenty to keep us busy.",
+    "radio_op_wait_for_sabre_russ": "Have many enemies to crush while wait for bomber!",
+
+    "radio_op_wait_for_sabre_hold_brit": "Saber will be here soon, chaps. Keep these buggers away!",
+    "radio_op_wait_for_sabre_hold_amer": "Come on already, where's Saber Squadron? I could've blown up myself by now!",
+    "radio_op_wait_for_sabre_hold_germ": "This bomber is taking his damn time! I do not like to wait!",
+    "radio_op_wait_for_sabre_hold_russ": "Saber Squadron takes its time! Good, plenty to kill! *laughs*",
+
+    "radio_op_wait_airdrop_banter_close_russ": "Aw, plane comes. We have to crush fascists another time.",
+    "radio_op_wait_airdrop_banter_close_amer": "There, right there! That's our plane!",
+    "radio_op_wait_airdrop_banter_close_brit": "Aha, I can see the plane now. Jolly good.",
+    "radio_op_wait_airdrop_banter_close_germ": "Aha, the plane is coming! Can you see?",
+
+    "radio_op_wait_for_truck2_russ": "Driver be here soon if driver knows what good for him.",
+    "radio_op_wait_for_truck2_brit": "I'm sure he's on his way. Just have to sit tight for a bit.",
+    "radio_op_wait_for_truck2_amer": "Well, the shmuck must've got stuck on traffic. He better get here soon.",
+    "radio_op_wait_for_truck2_germ": "He's surely on his way. Do not fear.",
+
+    "radio_op_wait_for_truck_hold_russ": "Ah, driver is very slow! Does he drive farm tractor?",
+    "radio_op_wait_for_truck_hold_amer": "Where's the damn driver? We've got places to be ",
+    "radio_op_wait_for_truck_hold_brit": "There's fascionably late, and there's taking the piss. This driver is the latter.",
+    "radio_op_wait_for_truck_hold_germ": "If this driver takes much longer, he can forget about getting paid.",
+
+    "radio_op_repair_fuse_box_rem_russ": "Fuse still out, come on!",
+    "radio_op_repair_fuse_box_rem_brit": "Hate to be a bother but THAT BLASTED FUSE BOX IS STILL BROKEN! FIX IT!",
+    "radio_op_repair_fuse_box_rem_germ": "What are you waiting for? Fix the blasted fuse box!",
+    "radio_op_repair_fuse_box_rem_amer": "Listen, we don't fix that fuse box, we don't finish this, so fix the fuse box!"
 }
