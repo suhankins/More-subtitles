@@ -39,6 +39,31 @@
     "bank_spawn_land1_amer": "The damn plane's missed! Treasury is locked tight, we ain't got a way in, what do we do!?",
     "bank_spawn_land1_russ": "Sabre Squadron... Bah, they cannot aim. Building still hold. How to get in?",
 
+    "bank_way_in3_russ": "We shall keep lookout. Blasting building is priority.",
+    "bank_way_in3_germ": "An opportunity will present itself soon enough, if we keep on the lookout.",
+    "bank_way_in3_amer": "Keep yer eyes peeled, holler if anything useful shows up.",
+    "bank_way_in3_brit": "Let's start looking then, lads. Say something if an opportunity presents itself.",
+
+    "bank_way_in_rem1_germ": "Have any of you gentlemen found a way inside, yet?",
+    "bank_way_in_rem1_amer": "Come on already, we finding a way in or what?",
+    "bank_way_in_rem1_brit": "We have to find that way inside, chaps. Quickly now.",
+    "bank_way_in_rem1_russ": "We must find way inside. What is delay?",
+
+    "bank_way_in_rem2_russ": "Comrades, we must find AA gun. I wish to shoot AA gun!",
+    "bank_way_in_rem2_amer": "We gotta find an AA gun. A big one.",
+    "bank_way_in_rem2_brit": "An AA gun will be quicker than any locksmith, that much is for sure.",
+    "bank_way_in_rem2_germ": "Come, we find an AA gun to create the most unique path into the treasury!",
+
+    "bank_way_in_rem_var2_1_russ": "Have I missed step in plan? Is the gold not inside?",
+    "bank_way_in_rem_var2_1_brit": "This is starting to get a little embarrassing, chaps. We need to get inside the treasury.",
+    "bank_way_in_rem_var2_1_germ": "Gentlemen, I cannot help but notice we are still are not inside the treasury.",
+    "bank_way_in_rem_var2_1_amer": "For crying out loud, why ain't we inside yet?!",
+
+    "bank_way_in_rem_var2_2_brit": "Jerry took some potshots at our planes, so I'd wager we could use their weapons against them.",
+    "bank_way_in_rem_var2_2_amer": "The krauts were shooting at our planes, right? So why ain't we using what they used?",
+    "bank_way_in_rem_var2_2_germ": "Our plane was shot at, correct? Then surely what we need is nearby.",
+    "bank_way_in_rem_var2_2_russ": "Fascists took shots at planes, so fascists will have big gun.",
+
     "bank_shells_first1_1_brit": "Here we are, AA shells. Meaning that we must be close to a ruddy big gun.",
     "bank_shells_first1_1_amer": "I got some AA shells here. Don't need three guesses what needs these.",
     "bank_shells_first1_1_russ": "Uh, big ammo will only fit the big gun. Da, I'm sure",

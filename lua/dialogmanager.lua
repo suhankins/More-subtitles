@@ -26,6 +26,7 @@ local LINES_THAT_ALREADY_EXIST_BUT_HAVE_NO_STRING_ID = {
     ["trainyard_plant_dynamite2"] = true,
     ["trainyard_plant_dynamite3_brit"] = true,
 	["bank_approaching_vault3"] = true,
+	["bank_way_in_rem3"] = true,
 }
 
 local LINES_THAT_USE_DIFFERENT_STRING_ID = {
