@@ -12,6 +12,10 @@ Project to add more subtitles to RAID: World War II.
     * London Calling
 * Amber Train
     * Rolling stock
+* Currently working camp banter (most of it is broken as of latest update)
+    * Skill table
+    * Shooting range
+    * Card table
 
 ## Plans
 
@@ -19,7 +23,7 @@ Add subtitles for
 
 * All raids
 * All operations
-* Camp dialogue
+* Potentially figure out a way to add subtitles for Mrs. White briefings for operations
 
 ## Dev tools
 
