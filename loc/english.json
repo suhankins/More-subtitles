@@ -1,4 +1,39 @@
 {
+    "camp_upgraded_card_table_var1_germ": "Another way for me to win your money? Very well.",
+    "camp_upgraded_card_table_var1_russ": "Cards? Bleh! Real men play Russian roulette. Of course, back home it's just roulette.",
+    "camp_upgraded_card_table_var1_brit": "One day I really must teach you hooligans how to play Bridge. Splendid game.",
+    "camp_upgraded_card_table_var1_amer": "Oh, now you're talking. One step closer to my dream of owning my own saloon.",
+
+    "camp_upgraded_card_table_var2_amer": "You know, I've always considered myself the joker of this deck.",
+    "camp_upgraded_card_table_var2_russ": "I no play cards, I play Russian roulette. And I'm very good at it, clearly.",
+    "camp_upgraded_card_table_var2_germ": "You know, one day we really must finish that game.",
+    "camp_upgraded_card_table_var2_brit": "Poker? Well, at least buy a diner first. *laughs*",
+
+    "camp_shooting_range_banter_var1_russ": "Eat, sleep, shoot, repeat. It is good mantra.",
+    "camp_shooting_range_banter_var1_germ": "Yes, I suppose we should be shooting during our downtime too.",
+    "camp_shooting_range_banter_var1_amer": "Gotta keep sharp if you wanna be a sharpshooter. I mean, it's right there in the name.",
+    "camp_shooting_range_banter_var1_brit": "\"Practice makes perfect\" as my dear grandma used to say. Repeatedly...",
+
+    "camp_shooting_range_banter_var2_russ": "Of course Kurgan prefers moving targets, but they are very noisy, yes?",
+    "camp_shooting_range_banter_var2_amer": "Uh, something about firing live rounds so close to that bomb don't sit right with me.",
+    "camp_shooting_range_banter_var2_germ": "Well, it's a far less messy way to prove I'm a better shot than you all.",
+    "camp_shooting_range_banter_var2_brit": "Yes, I suppose we don't have enough things to shoot now, do we?",
+
+    "camp_upgraded_skills_table_var1_amer": "Well, it's a little more fancy than a punchbag I had in mind, but it'll do.",
+    "camp_upgraded_skills_table_var1_russ": "For men who likes to punch while skeleton watches? I do not judge.",
+    "camp_upgraded_skills_table_var1_germ": "Although there's rarely a quiet moment, few things soothe like practicing your right hook.",
+    "camp_upgraded_skills_table_var1_brit": "I say, nothing like a little reminder of our mortality stood there, staring at us.",
+
+    "camp_upgraded_skills_table_var2_brit": "Well, at least if skeleton breaks, we won't be short of spares.",
+    "camp_upgraded_skills_table_var2_germ": "I can always lose myself in a good book. Pity I can't lose the other men from time to time...",
+    "camp_upgraded_skills_table_var2_amer": "I guess this means we are kinda a big deal. All these leather-bound books and... Is that mahogany?",
+    "camp_upgraded_skills_table_var2_russ": "Hm, that skeleton looks familiar. I hope we have not met until today. Very spooky...",
+
+    "cs_op_camp_intro_russ": "Time to listen to fascist chatter.",
+    "cs_op_camp_intro_germ": "I must say, I'm most intrigued to discover what these schweins have to say.",
+    "cs_op_camp_intro_amer": "So, we are gonna go listen on on the nazis. We are still gonna kill some, right?",
+    "cs_op_camp_intro_brit": "We've got a little bit of eavesdropping to do, gents. Tally-ho.",
+
     "bank_spawn_land1_brit": "Blasted fly boys failed to breach the Treasury. How the damn are we supposed to get in now?",
     "bank_spawn_land1_germ": "Our air support have disappointed, the Treasury is more intact than we were promised. How do we get in now?",
     "bank_spawn_land1_amer": "The damn plane's missed! Treasury is locked tight, we ain't got a way in, what do we do!?",
