@@ -29,6 +29,66 @@
     "camp_upgraded_skills_table_var2_amer": "I guess this means we are kinda a big deal. All these leather-bound books and... Is that mahogany?",
     "camp_upgraded_skills_table_var2_russ": "Hm, that skeleton looks familiar. I hope we have not met until today. Very spooky...",
 
+    "camp_banter_examine_maps_01_amer": "Look at this, will ya.",
+    "camp_banter_examine_maps_01_brit": "Some cracking intel here.",
+    "camp_banter_examine_maps_01_germ": "I very much doubt Berlin looks like this anymore.",
+    "camp_banter_examine_maps_01_russ": "Ah, maps. Let us make a plan, da?",
+
+    "camp_banter_examine_maps_02_brit": "Wonder where Mrs. White will send us next...",
+    "camp_banter_examine_maps_02_germ": "Plans are not worth much, but planning is everything.",
+    "camp_banter_examine_maps_02_russ": "So much to destroy...",
+    "camp_banter_examine_maps_02_amer": "Hm, this looks like a good spot to hit. What do you think?",
+
+    "camp_banter_examine_maps_03_russ": "Yes... Plan is forming in Kurgan's head.",
+    "camp_banter_examine_maps_03_germ": "How should we decide? Ah! Eeny, meeny, miny, moe!",
+    "camp_banter_examine_maps_03_amer": "Now, we're sure these maps are up to date?",
+    "camp_banter_examine_maps_03_brit": "Always loved maps, even as a child.",
+
+    "camp_banter_examine_maps_04_russ": "Hitler annex Poland. Kurgan considering annexing Hitler's house.",
+    "camp_banter_examine_maps_04_amer": "Hey, we do need to update these. Include all the bits of Germany Kurgan wiped off the map for a start.",
+    "camp_banter_examine_maps_04_brit": "Been all over the place, you know? Kolkata, Morocco, Paraguay... Lots of fascinating people to see... and do...",
+    "camp_banter_examine_maps_04_germ": "It only takes a few strikes in strategic locations to send German command into a panic.",
+
+    "camp_banter_examine_maps_05_brit": "I've got an old atlas somewhere. Of course Mr. Hitler's made it rather out of date.",
+    "camp_banter_examine_maps_05_amer": "I knew a guy from AMS once. Hah, couldn't find his own ass to take a dump, but he could navigate from Tunis to Tripoli without a compass. I ain't kidding.",
+    "camp_banter_examine_maps_05_germ": "If our missions are timed and placed correctly, the Germans become paranoid. We must use this fear to our advantage.",
+    "camp_banter_examine_maps_05_russ": "Roots of attack Hitler's house involve smashing this army, smashing that army, smashing other army, or destroying navy.",
+
+    "camp_banter_examine_maps_06_brit": "What what this will look like once the war is over...",
+    "camp_banter_examine_maps_06_russ": "Plan is clear. Kurgan cannot swim. That mean only 3 armies to take on, and Number 53 ??? Germany belongs to Kurgan.",
+    "camp_banter_examine_maps_06_amer": "Eh, we outta take a compass with us for the next raid. Avoid what happened in what we thought was Munich but what was actually Salzburg. *laughs* Shit.",
+    "camp_banter_examine_maps_06_germ": "We must make it so the Germans are never quite sure where to expect us, and spread their forces accordingly.",
+
+    "camp_banter_bombers_sound_01_germ": "Listen to those bombs...",
+    "camp_banter_bombers_sound_01_amer": "Man, listen to that. Thank God it's the nazis under them wings.",
+    "camp_banter_bombers_sound_01_brit": "Bomber commander know how to make a bloody ruckus.",
+    "camp_banter_bombers_sound_01_russ": "Those bombers are a marvel of the world.",
+
+    "camp_banter_bombers_sound_02_amer": "You think Mrs. White is gonna keep those bombers away from us?",
+    "camp_banter_bombers_sound_02_germ": "Bombers... Barbaric warfare...",
+    "camp_banter_bombers_sound_02_russ": "Kurgan hopes another bomb does not hit our church.",
+    "camp_banter_bombers_sound_02_brit": "Sounds like Lancasters... Harris’s lads are over tonight? Bloody hell.",
+
+    "camp_banter_bombers_sound_03_russ": "If one of those bombs hits Hitler... *laughs*",
+    "camp_banter_bombers_sound_03_brit": "How many do you think that is up there? 500? 600?",
+    "camp_banter_bombers_sound_03_germ": "Hear those bombers? Fantastic technology, but hear me: it is the sound of the end of civilization.",
+    "camp_banter_bombers_sound_03_amer": "I'll have to sweep up this city after the war.",
+
+    "camp_banter_bombers_sound_04_amer": "You ever see a Lancaster? Thing's like a thrown damn elephant up in the air and it's not coming down.",
+    "camp_banter_bombers_sound_04_brit": "So much for the Blitzkrieg, Jerry. I think the RAF got you outmatched.",
+    "camp_banter_bombers_sound_04_russ": "Kurgan wonder, how heavy bomb from plane is?",
+    "camp_banter_bombers_sound_04_germ": "Berlin was a beautiful place... It will be many years before it recovers, and many fine examples of architecture will be lost for all time.",
+
+    "camp_banter_bombers_sound_05_amer": "I'm serious, those things are huge. Look, I know something about engines, and I don't have a clue how they do it.",
+    "camp_banter_bombers_sound_05_brit": "You know, if we weren't directly underneath them, I'd find those planes a comforting sound.",
+    "camp_banter_bombers_sound_05_germ": "Hmph, we are present at the death of a city. It would be interesting to see what rises in its place... And heartbreaking, naturally.",
+    "camp_banter_bombers_sound_05_russ": "Could Kurgan carry bomb from plane into battle, how many fascists would that kill?",
+
+    "camp_banter_bombers_sound_06_amer": "'course what goes up is gonna go down, and that's why ain't in the airforce.",
+    "camp_banter_bombers_sound_06_germ": "Once all this chaos is over, there will be chance for certain men to rise, to take the reins. Also to make a great deal of money.",
+    "camp_banter_bombers_sound_06_russ": "If Kurgan treat Mrs. White very good, maybe she give Kurgan a present of bomb from plane?",
+    "camp_banter_bombers_sound_06_brit": "I don't think Jerry is going to sleep well tonight.",
+
     "cs_op_camp_intro_russ": "Time to listen to fascist chatter.",
     "cs_op_camp_intro_germ": "I must say, I'm most intrigued to discover what these schweins have to say.",
     "cs_op_camp_intro_amer": "So, we are gonna go listen on on the nazis. We are still gonna kill some, right?",
