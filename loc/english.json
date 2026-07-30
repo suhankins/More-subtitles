@@ -84,10 +84,45 @@
     "camp_banter_bombers_sound_05_germ": "Hmph, we are present at the death of a city. It would be interesting to see what rises in its place... And heartbreaking, naturally.",
     "camp_banter_bombers_sound_05_russ": "Could Kurgan carry bomb from plane into battle, how many fascists would that kill?",
 
-    "camp_banter_bombers_sound_06_amer": "'course what goes up is gonna go down, and that's why ain't in the airforce.",
+    "camp_banter_bombers_sound_06_amer": "'course, what goes up is gonna come down, and that's why ain't in the airforce.",
     "camp_banter_bombers_sound_06_germ": "Once all this chaos is over, there will be chance for certain men to rise, to take the reins. Also to make a great deal of money.",
     "camp_banter_bombers_sound_06_russ": "If Kurgan treat Mrs. White very good, maybe she give Kurgan a present of bomb from plane?",
     "camp_banter_bombers_sound_06_brit": "I don't think Jerry is going to sleep well tonight.",
+
+    "camp_banter_start_new_raid_01_russ": "Kurgan getting bored. Let's go out and play, da?",
+    "camp_banter_start_new_raid_01_amer": "Let's get rich before the war finishes.",
+    "camp_banter_start_new_raid_01_germ": "Let us put our hearts and skill to the test here.",
+    "camp_banter_start_new_raid_01_brit": "Think there might be message from Mrs. White over there. Fancy having a pop?",
+
+    "camp_banter_start_new_raid_02_amer": "Let's get rich before the war finishes.",
+    "camp_banter_start_new_raid_02_brit": "Heard Mrs. White has another job for us. Why don't you ??? over there and have a peek, eh?",
+    "camp_banter_start_new_raid_02_germ": "Oh, meine freunde... Is it time to emerge from the shadows and bring terror to the reich? I think so.",
+    "camp_banter_start_new_raid_02_russ": "Is it time for us to head back out?",
+
+    "camp_banter_start_new_raid_03_germ": "I believe Frau White might have another job for us. Check the table.",
+    "camp_banter_start_new_raid_03_brit": "Getting ants in my pants here. Why not go find us a new job, eh?",
+    "camp_banter_start_new_raid_03_russ": "Kurgan believe war is won by fighting, not sitting. Time for new job?",
+    "camp_banter_start_new_raid_03_amer": "I've got chicken scratchin' at my nuts from all this sitting around. C'mon, find us a job, would ya?",
+
+    "camp_banter_start_new_raid_04_russ": "We get out there soon, da? New raid maybe?",
+    "camp_banter_start_new_raid_04_germ": "I think it is now time for us to get out into the world and make our presence felt, ja?",
+    "camp_banter_start_new_raid_04_brit": "One can only take so much R&R... Anything for us to do?",
+    "camp_banter_start_new_raid_04_amer": "Jehoshaphat, this place is driving me fucking crazy. Hey, you reckon Mrs. White might have something for us?",
+
+    "camp_banter_start_new_raid_05_russ": "Mrs. White call? More killing for Kurgan?",
+    "camp_banter_start_new_raid_05_brit": "Any messages for us? I'm just twiddling my thumbs here.",
+    "camp_banter_start_new_raid_05_germ": "We have been here too long, I feel. We need to see some action.",
+    "camp_banter_start_new_raid_05_amer": "Hey you, uh... You reckon there might be something for us? I'm feeling a real need to crack a few nazi skulls, you know what I mean?",
+
+    "camp_banter_start_new_raid_06_russ": "Let us go forth. Kill fascists, drink vodka, kill more fascists. Da?",
+    "camp_banter_start_new_raid_06_germ": "If one goes too long without using one's skills, one runs a risk of atrophy, ja? We should go out and fight.",
+    "camp_banter_start_new_raid_06_amer": "Reckon we need a mission. Reckon we don't get one, one of us is gonna start shooting the place up. Might be me.",
+    "camp_banter_start_new_raid_06_brit": "Surely Mrs. White has something for us to do by now. I'm tired of Rivet's incessant swaggering.",
+
+    "or_op_mission_brief_complete_brit": "You heard her. Let's out and find this chap.",
+    "or_op_mission_brief_complete_amer": "Alright, you heard Mrs. White. Grab your gear and let's find this guy.",
+    "or_op_mission_brief_complete_russ": "She speaks, we move. We find him.",
+    "or_op_mission_brief_complete_germ": "We have our orders. Let us find this man.",
 
     "cs_op_camp_intro_russ": "Time to listen to fascist chatter.",
     "cs_op_camp_intro_germ": "I must say, I'm most intrigued to discover what these schweins have to say.",
