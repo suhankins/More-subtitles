@@ -16,6 +16,9 @@ Project to add more subtitles to RAID: World War II.
     * Skill table
     * Shooting range
     * Card table
+    * Bombers flying above
+    * Maps
+    * Taking too long to start a raid
 
 ## Plans
 
